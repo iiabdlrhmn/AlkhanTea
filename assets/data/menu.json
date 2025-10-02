@@ -1,5 +1,5 @@
 {
-  "Tea Menu" : {
+  "Tea" : {
     "p1": ["Alkhan Tea", 1500],
     "p2": ["Alkhan tea with saffron",3000],
     "p3": ["Alkhan tea with roses", 1500],
@@ -33,8 +33,10 @@
     "p31": ["Sahleb", 5000],
     "p32": ["Water", 500]
   },
-  "Drinks Menu": {
-    "Hot Drinks": {
+
+  "Drinks": {
+
+    "Hot": {
       "p1": ["Americano", 4000],
       "p2": ["Americano with milk", 4000],
       "p3": ["Espresso Lonco", 5000],
@@ -56,12 +58,14 @@
       "p19": ["Hazelnut coffee", 4500],
       "p20": ["French coffee", 4000]
     },
-    "Cold Drinks": {
+
+    "Cold": {
       "p1": ["Espresso Martini", 5000],
       "p2": ["Greek Frappe", 6000],
       "p3": ["Italian Frappe", 5000],
       "p4": ["latte", 6000],
       "p5": ["Chocolate", 6000],
+
       "p6": ["milkshake", 5500],
       "p7": ["Caramel milkshake", 5500],
       "p8": ["Vanilla milkshake", 5500],
@@ -69,14 +73,95 @@
       "p10": ["Chocolate milkshake", 5500],
       "p11": ["Strawberry milkshake", 5500],
       "p12": ["Alkhan Milkshake", 6000],
+      
       "p13": ["Orange juice", 5000],
       "p14": ["Lemon juice", 5000],
       "p15": ["Mint juice", 5000],
       "p16": ["Watermelon juice", 5000],
       "p17": ["Pomegranate juice", 6000],
       "p18": ["Milk and banana juice", 5000],
-      "p19": ["Alkhan juice", 6000]
-      
+      "p19": ["Alkhan juice", 6000],
+
+      "p20": ["Mojito Traditional", 5000],
+      "p21": ["Strawberry Mojito", 5000],
+      "p22": ["Kiwi Mojito", 5000],
+      "p23": ["Pomegranate Mojito", 5000],
+      "p24": ["Blue Hawaii Mojito", 5000],
+      "p25": ["Mexican Mojito", 5000],
+      "p26": ["Lady of the Rose", 5000],
+      "p27": ["Red watermeelon mojito", 5000]
+    }
+  },
+  
+  "Icecream": {
+    "p1": ["Scoops ( chocolate , pistachio , caramel , strawberry , mixed )", 5000],
+    "p2": ["Banana Split ( vanilla ,chocolate , caramel , fresh banana )", 5000],
+    "p3": ["Coke Zimo ( 2 scoops vanilla )", 5000],
+    "p4": ["Chocolate avocado", 6500],
+    "p5": ["Avocado vanilla", 6500],
+    "p6": ["Avocado caramel", 7000]
+  },
+
+  "Sweets": {
+
+    "Sweets": {
+      "p1": ["fruit crepe", 7000],
+      "p2": ["Nutella crepe", 6000],
+      "p3": ["Lotus crepe", 6000],
+      "p4": ["Pistachio crepe", 6000],
+      "p5": ["Pancakes", 6000],
+      "p6": ["Chocolate pancakes", 6000],
+      "p7": ["Lotus pancakes", 6000],
+      "p8": ["Pistachio pancakes", 6000],
+      "p9": ["Nutella pancakes", 6000],
+      "p10": ["Fruit pancakes", 7000],
+      "p11": ["Caramel pancakes", 6000],
+      "p12": ["Mixed pancakes", 6000],
+      "p13": ["Chocolate waffle", 6000],
+      "p14": ["Pistachio waffle", 6000],
+      "p15": ["Lotus waffle", 6000],
+      "p16": ["Fruit waffle", 7000],
+      "p17": ["Alkhan cake", 7000],
+      "p18": ["Fruit salad", 6000],
+      "p19": ["Nuts", 3000]
+    },
+
+    "cake": {
+      "p1": ["San sebastian", 7000],
+      "p2": ["Red Velvet", 5000],
+      "p3": ["Blueberry Cheesecake", 7000],
+      "p4": ["Strawberry Cheesecake", 7000],
+      "p5": ["Milk cake", 3500],
+      "p6": ["Tiramisu", 6000],
+      "p7": ["Plain iraqi cake", 2000],
+      "p8": ["iraqi chocolate cake", 3000],
+      "p9": ["Oreo cake", 4500]
+    },
+
+    "Snack": {
+      "p1": ["Iraqi cookie", 2500],
+      "p2": ["Klicha", 2500],
+      "p3": ["Cookies", 2500]
+    },
+
+    "Pies": {
+      "p1": ["Chocolate croissant", 3500],
+      "p2": ["Cheese croissant", 3500],
+      "p3": ["Croissant", 3500],
+      "p4": ["cold toast", 3000],
+      "p5": ["Cheese toast", 3000],
+      "p6": ["Turkey pastries", 5000],
+      "p7": ["Meat pastries", 6000],
+      "p8": ["Chicaken pastries", 6000],
+      "p9": ["Mortadella pastries", 5000],
+      "p10": ["Thyme & cheese pastries", 4000],
+      "p11": ["cheese pastries", 4000],
+      "p12": ["Black seed & cheese pastries", 4000],
+      "p13": ["Spinach & cheese pastries", 4000],
+      "p14": ["Pepperoni pastries", 5000],
+      "p15": ["Sausage pastries", 5000],
+      "p16": ["Mushroom pastries", 5000],
+      "p17": ["Olive oil & thyme pastries", 4000]
     }
   }
 }
