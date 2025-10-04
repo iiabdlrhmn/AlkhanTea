@@ -1,167 +1,560 @@
 {
-  "Tea" : {
-    "p1": ["Alkhan Tea", 1500],
-    "p2": ["Alkhan tea with saffron",3000],
-    "p3": ["Alkhan tea with roses", 1500],
-    "p4": ["Alkhan tea with coffee", 3000],
-    "p5": ["Alkhan tea with Mawy rose", 1500],
-    "p6": ["Alkhan tea with sage", 2500],
-    "p7": ["Alkhan tea with apple", 3000],
-    "p8": ["Alkhan tea with orange", 3000],
-    "p9": ["Alkhan tea with lemon", 3000],
-    "p10": ["Alkhan tea with milk", 2000],
-    "p11": ["Alkhan tea with kiwi", 3000],
-    "p12": ["Alkhan mint tea", 2000],
-    "p13": ["Alkhan Green tea", 2000],
-    "p14": ["Alkhan Tea in Numi Basra", 2000],
-    "p15": ["Anise", 3000],
-    "p16": ["Numi Basra tea", 1500],
-    "p17": ["Zhourat", 2500],
-    "p18": ["Darsin", 2000],
-    "p19": ["Lemon Flower", 2500],
-    "p20": ["Hibiscus", 3000],
-    "p21": ["Mohammadi rose", 3000],
-    "p22": ["Maui rose", 3000],
-    "p23": ["lemon leaves", 3000],
-    "p24": ["Cinnamon with milk", 2000],
-    "p25": ["Saffron milk", 5000],
-    "p26": ["Milk with honey", 3000],
-    "p27": ["Lemon + Honey + Ginger", 5000],
-    "p28": ["Chamomile tea", 3000],
-    "p29": ["Matcha tea", 5000],
-    "p30": ["Mate", 3000],
-    "p31": ["Sahleb", 5000],
-    "p32": ["Water", 500]
-  },
-
-  "Drinks": {
-
-    "Hot": {
-      "p1": ["Americano", 4000],
-      "p2": ["Americano with milk", 4000],
-      "p3": ["Espresso Lonco", 5000],
-      "p4": ["Cappuccino", 4500],
-      "p5": ["Mocha", 5000],
-      "p6": ["Vanilla latte", 6000],
-      "p7": ["Caramel latte", 6000],
-      "p8": ["Cortado", 4000],
-      "p9": ["Hot Chocolate", 4500],
-      "p10": ["Nescafe", 4000],
-      "p11": ["Spanish latte", 5000],
-      "p12": ["Espresso", 3000],
-      "p13": ["Espresso Macchiato", 3500],
-      "p14": ["Espresso con Panna (Italian)", 3500],
-      "p15": ["Espresso Doppio", 5000],
-      "p16": ["Turkish coffee", 3500],
-      "p17": ["Arabic coffee with cardamom", 3500],
-      "p18": ["Qazwan (Botm)", 4000],
-      "p19": ["Hazelnut coffee", 4500],
-      "p20": ["French coffee", 4000]
+  "tea": [
+    {
+      "name": "Alkhan Tea",
+      "price": 1500
     },
-
-    "Cold": {
-      "p1": ["Espresso Martini", 5000],
-      "p2": ["Greek Frappe", 6000],
-      "p3": ["Italian Frappe", 5000],
-      "p4": ["latte", 6000],
-      "p5": ["Chocolate", 6000],
-
-      "p6": ["milkshake", 5500],
-      "p7": ["Caramel milkshake", 5500],
-      "p8": ["Vanilla milkshake", 5500],
-      "p9": ["Oreo milkshake", 5500],
-      "p10": ["Chocolate milkshake", 5500],
-      "p11": ["Strawberry milkshake", 5500],
-      "p12": ["Alkhan Milkshake", 6000],
-      
-      "p13": ["Orange juice", 5000],
-      "p14": ["Lemon juice", 5000],
-      "p15": ["Mint juice", 5000],
-      "p16": ["Watermelon juice", 5000],
-      "p17": ["Pomegranate juice", 6000],
-      "p18": ["Milk and banana juice", 5000],
-      "p19": ["Alkhan juice", 6000],
-
-      "p20": ["Mojito Traditional", 5000],
-      "p21": ["Strawberry Mojito", 5000],
-      "p22": ["Kiwi Mojito", 5000],
-      "p23": ["Pomegranate Mojito", 5000],
-      "p24": ["Blue Hawaii Mojito", 5000],
-      "p25": ["Mexican Mojito", 5000],
-      "p26": ["Lady of the Rose", 5000],
-      "p27": ["Red watermeelon mojito", 5000]
+    {
+      "name": "Alkhan tea with saffron",
+      "price": 3000
+    },
+    {
+      "name": "Alkhan tea with roses",
+      "price": 1500
+    },
+    {
+      "name": "Alkhan tea with coffee",
+      "price": 3000
+    },
+    {
+      "name": "Alkhan tea with Mawy rose",
+      "price": 1500
+    },
+    {
+      "name": "Alkhan tea with sage",
+      "price": 2500
+    },
+    {
+      "name": "Alkhan tea with apple",
+      "price": 3000
+    },
+    {
+      "name": "Alkhan tea with orange",
+      "price": 3000
+    },
+    {
+      "name": "Alkhan tea with lemon",
+      "price": 3000
+    },
+    {
+      "name": "Alkhan tea with milk",
+      "price": 2000
+    },
+    {
+      "name": "Alkhan tea with kiwi",
+      "price": 3000
+    },
+    {
+      "name": "Alkhan mint tea",
+      "price": 2000
+    },
+    {
+      "name": "Alkhan Green tea",
+      "price": 2000
+    },
+    {
+      "name": "Alkhan Tea in Numi Basra",
+      "price": 2000
+    },
+    {
+      "name": "Anise",
+      "price": 3000
+    },
+    {
+      "name": "Numi Basra tea",
+      "price": 1500
+    },
+    {
+      "name": "Zhourat",
+      "price": 2500
+    },
+    {
+      "name": "Darsin",
+      "price": 2000
+    },
+    {
+      "name": "Lemon Flower",
+      "price": 2500
+    },
+    {
+      "name": "Hibiscus",
+      "price": 3000
+    },
+    {
+      "name": "Mohammadi rose",
+      "price": 3000
+    },
+    {
+      "name": "Maui rose",
+      "price": 3000
+    },
+    {
+      "name": "lemon leaves",
+      "price": 3000
+    },
+    {
+      "name": "Cinnamon with milk",
+      "price": 2000
+    },
+    {
+      "name": "Saffron milk",
+      "price": 5000
+    },
+    {
+      "name": "Milk with honey",
+      "price": 3000
+    },
+    {
+      "name": "Lemon + Honey + Ginger",
+      "price": 5000
+    },
+    {
+      "name": "Chamomile tea",
+      "price": 3000
+    },
+    {
+      "name": "Matcha tea",
+      "price": 5000
+    },
+    {
+      "name": "Mate",
+      "price": 3000
+    },
+    {
+      "name": "Sahleb",
+      "price": 5000
+    },
+    {
+      "name": "Water",
+      "price": 500
     }
+  ],
+  "drinks": {
+    "hot": [
+      {
+        "name": "Americano",
+        "price": 4000
+      },
+      {
+        "name": "Americano with milk",
+        "price": 4000
+      },
+      {
+        "name": "Espresso Lonco",
+        "price": 5000
+      },
+      {
+        "name": "Cappuccino",
+        "price": 4500
+      },
+      {
+        "name": "Mocha",
+        "price": 5000
+      },
+      {
+        "name": "Vanilla latte",
+        "price": 6000
+      },
+      {
+        "name": "Caramel latte",
+        "price": 6000
+      },
+      {
+        "name": "Cortado",
+        "price": 4000
+      },
+      {
+        "name": "Hot Chocolate",
+        "price": 4500
+      },
+      {
+        "name": "Nescafe",
+        "price": 4000
+      },
+      {
+        "name": "Spanish latte",
+        "price": 5000
+      },
+      {
+        "name": "Espresso",
+        "price": 3000
+      },
+      {
+        "name": "Espresso Macchiato",
+        "price": 3500
+      },
+      {
+        "name": "Espresso con Panna (Italian)",
+        "price": 3500
+      },
+      {
+        "name": "Espresso Doppio",
+        "price": 5000
+      },
+      {
+        "name": "Turkish coffee",
+        "price": 3500
+      },
+      {
+        "name": "Arabic coffee with cardamom",
+        "price": 3500
+      },
+      {
+        "name": "Qazwan (Botm)",
+        "price": 4000
+      },
+      {
+        "name": "Hazelnut coffee",
+        "price": 4500
+      },
+      {
+        "name": "French coffee",
+        "price": 4000
+      }
+    ],
+    
+    "cold": [
+      {
+        "name": "Espresso Martini",
+        "price": 5000
+      },
+      {
+        "name": "Greek Frappe",
+        "price": 6000
+      },
+      {
+        "name": "Italian Frappe",
+        "price": 5000
+      },
+      {
+        "name": "latte",
+        "price": 6000
+      },
+      {
+        "name": "Chocolate",
+        "price": 6000
+      },
+      {
+        "name": "milkshake",
+        "price": 5500
+      },
+      {
+        "name": "Caramel milkshake",
+        "price": 5500
+      },
+      {
+        "name": "Vanilla milkshake",
+        "price": 5500
+      },
+      {
+        "name": "Oreo milkshake",
+        "price": 5500
+      },
+      {
+        "name": "Chocolate milkshake",
+        "price": 5500
+      },
+      {
+        "name": "Strawberry milkshake",
+        "price": 5500
+      },
+      {
+        "name": "Alkhan Milkshake",
+        "price": 6000
+      },
+      {
+        "name": "Orange juice",
+        "price": 5000
+      },
+      {
+        "name": "Lemon juice",
+        "price": 5000
+      },
+      {
+        "name": "Mint juice",
+        "price": 5000
+      },
+      {
+        "name": "Watermelon juice",
+        "price": 5000
+      },
+      {
+        "name": "Pomegranate juice",
+        "price": 6000
+      },
+      {
+        "name": "Milk and banana juice",
+        "price": 5000
+      },
+      {
+        "name": "Alkhan juice",
+        "price": 6000
+      },
+      {
+        "name": "Mojito Traditional",
+        "price": 5000
+      },
+      {
+        "name": "Strawberry Mojito",
+        "price": 5000
+      },
+      {
+        "name": "Kiwi Mojito",
+        "price": 5000
+      },
+      {
+        "name": "Pomegranate Mojito",
+        "price": 5000
+      },
+      {
+        "name": "Blue Hawaii Mojito",
+        "price": 5000
+      },
+      {
+        "name": "Mexican Mojito",
+        "price": 5000
+      },
+      {
+        "name": "Lady of the Rose",
+        "price": 5000
+      },
+      {
+        "name": "Red watermeelon mojito",
+        "price": 5000
+      }
+    ]
   },
-  
-  "Icecream": {
-    "p1": ["Scoops ( chocolate , pistachio , caramel , strawberry , mixed )", 5000],
-    "p2": ["Banana Split ( vanilla ,chocolate , caramel , fresh banana )", 5000],
-    "p3": ["Coke Zimo ( 2 scoops vanilla )", 5000],
-    "p4": ["Chocolate avocado", 6500],
-    "p5": ["Avocado vanilla", 6500],
-    "p6": ["Avocado caramel", 7000]
-  },
 
-  "Sweets": {
-
-    "Sweets": {
-      "p1": ["fruit crepe", 7000],
-      "p2": ["Nutella crepe", 6000],
-      "p3": ["Lotus crepe", 6000],
-      "p4": ["Pistachio crepe", 6000],
-      "p5": ["Pancakes", 6000],
-      "p6": ["Chocolate pancakes", 6000],
-      "p7": ["Lotus pancakes", 6000],
-      "p8": ["Pistachio pancakes", 6000],
-      "p9": ["Nutella pancakes", 6000],
-      "p10": ["Fruit pancakes", 7000],
-      "p11": ["Caramel pancakes", 6000],
-      "p12": ["Mixed pancakes", 6000],
-      "p13": ["Chocolate waffle", 6000],
-      "p14": ["Pistachio waffle", 6000],
-      "p15": ["Lotus waffle", 6000],
-      "p16": ["Fruit waffle", 7000],
-      "p17": ["Alkhan cake", 7000],
-      "p18": ["Fruit salad", 6000],
-      "p19": ["Nuts", 3000]
+  "icecream": [
+    {
+      "name": "Scoops ( chocolate , pistachio , caramel , strawberry , mixed )",
+      "price": 5000
     },
-
-    "cake": {
-      "p1": ["San sebastian", 7000],
-      "p2": ["Red Velvet", 5000],
-      "p3": ["Blueberry Cheesecake", 7000],
-      "p4": ["Strawberry Cheesecake", 7000],
-      "p5": ["Milk cake", 3500],
-      "p6": ["Tiramisu", 6000],
-      "p7": ["Plain iraqi cake", 2000],
-      "p8": ["iraqi chocolate cake", 3000],
-      "p9": ["Oreo cake", 4500]
+    {
+      "name": "Banana Split ( vanilla ,chocolate , caramel , fresh banana )",
+      "price": 5000
     },
-
-    "Snack": {
-      "p1": ["Iraqi cookie", 2500],
-      "p2": ["Klicha", 2500],
-      "p3": ["Cookies", 2500]
+    {
+      "name": "Coke Zimo ( 2 scoops vanilla )",
+      "price": 5000
     },
-
-    "Pies": {
-      "p1": ["Chocolate croissant", 3500],
-      "p2": ["Cheese croissant", 3500],
-      "p3": ["Croissant", 3500],
-      "p4": ["cold toast", 3000],
-      "p5": ["Cheese toast", 3000],
-      "p6": ["Turkey pastries", 5000],
-      "p7": ["Meat pastries", 6000],
-      "p8": ["Chicaken pastries", 6000],
-      "p9": ["Mortadella pastries", 5000],
-      "p10": ["Thyme & cheese pastries", 4000],
-      "p11": ["cheese pastries", 4000],
-      "p12": ["Black seed & cheese pastries", 4000],
-      "p13": ["Spinach & cheese pastries", 4000],
-      "p14": ["Pepperoni pastries", 5000],
-      "p15": ["Sausage pastries", 5000],
-      "p16": ["Mushroom pastries", 5000],
-      "p17": ["Olive oil & thyme pastries", 4000]
+    {
+      "name": "Chocolate avocado",
+      "price": 6500
+    },
+    {
+      "name": "Avocado vanilla",
+      "price": 6500
+    },
+    {
+      "name": "Avocado caramel",
+      "price": 7000
     }
+  ],
+
+  "sweets": {
+    "sweets": [
+      {
+        "name": "fruit crepe",
+        "price": 7000 
+      },
+      {
+        "name": "Nutella crepe",
+        "price": 6000
+      },
+      {
+        "name": "Lotus crepe",
+        "price": 6000
+      },
+      {
+        "name": "Pistachio crepe",
+        "price": 6000
+      },
+      {
+        "name": "Pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Chocolate pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Lotus pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Pistachio pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Nutella pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Fruit pancakes",
+        "price": 7000
+      },
+      {
+        "name": "Caramel pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Mixed pancakes",
+        "price": 6000
+      },
+      {
+        "name": "Chocolate waffle",
+        "price": 6000
+      },
+      {
+        "name": "Pistachio waffle",
+        "price": 6000
+      },
+      {
+        "name": "Lotus waffle",
+        "price": 6000
+      },
+      {
+        "name": "Fruit waffle",
+        "price": 7000
+      },
+      {
+        "name": "Alkhan cake",
+        "price": 7000
+      },
+      {
+        "name": "Fruit salad",
+        "price": 6000
+      },
+      {
+        "name": "Nuts",
+        "price": 3000
+      }
+    ],
+
+    "cake": [
+      {
+        "name": "San sebastian",
+        "price": 7000
+      },
+      {
+        "name": "Red Velvet",
+        "price": 5000
+      },
+      {
+        "name": "Blueberry Cheesecake",
+        "price": 7000
+      },
+      {
+        "name": "Strawberry Cheesecake",
+        "price": 7000
+      },
+      {
+        "name": "Milk cake",
+        "price": 3500
+      },
+      {
+        "name": "Tiramisu",
+        "price": 6000
+      },
+      {
+        "name": "Plain iraqi cake",
+        "price": 2000
+      },
+      {
+        "name": "iraqi chocolate cake",
+        "price": 3000
+      },
+      {
+        "name": "Oreo cake",
+        "price": 4500
+      }
+    ],
+
+    "snacks": [
+      {
+        "name": "Iraqi cookie",
+        "price": 2500
+      },
+      {
+        "name": "Klicha",
+        "price": 2500
+      },
+      {
+        "name": "Cookies",
+        "price": 2500
+      }
+    ],
+
+    "pies": [
+      {
+        "name": "Chocolate croissant",
+        "price": 3500
+      },
+      {
+        "name": "Cheese croissant",
+        "price": 3500
+      },
+      {
+        "name": "Croissant",
+        "price": 3500
+      },
+      {
+        "name": "cold toast",
+        "price": 3000
+      },
+      {
+        "name": "Cheese toast",
+        "price": 3000
+      },
+      {
+        "name": "Turkey pastries",
+        "price": 5000
+      },
+      {
+        "name": "Meat pastries",
+        "price": 6000
+      },
+      {
+        "name": "Chicaken pastries",
+        "price": 6000
+      },
+      {
+        "name": "Mortadella pastries",
+        "price": 5000
+      },
+      {
+        "name": "Thyme & cheese pastries",
+        "price": 4000
+      },
+      {
+        "name": "cheese pastries",
+        "price": 4000
+      },
+      {
+        "name": "Black seed & cheese pastries",
+        "price": 4000
+      },
+      {
+        "name": "Spinach & cheese pastries",
+        "price": 4000
+      },
+      {
+        "name": "Pepperoni pastries",
+        "price": 5000
+      },
+      {
+        "name": "Sausage pastries",
+        "price": 5000
+      },
+      {
+        "name": "Mushroom pastries",
+        "price": 5000
+      },
+      {
+        "name": "Olive oil & thyme pastries",
+        "price": 4000
+      }
+    ]
   }
 }
