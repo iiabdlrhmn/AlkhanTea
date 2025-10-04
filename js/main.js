@@ -13,19 +13,18 @@ listItems.forEach((item) => {
     })
     document.querySelector(item.dataset.cont).style.display = "flex";
     
-    dataFetch(item.id);
+    // fix the infinity post fetching bug
+    let dataCont = document.querySelector("."+document.querySelector(".active").id);
+    dataCont.innerHTML == ""? dataFetch(item.id) : 0;
   });
 });
 
 function dataFetch(type="tea") {
   fetch("assets/data/menu.json")
   .then(res => res.json())
-  .then(menu => {
-    let productsMenu = document.querySelector(`.${type}`);
-    let products = menu[type]
-    
+  .then(menu => {    
     if (type == "tea" || type == "icecream") {
-      singleL(menu[type], type);
+      singleL(type, menu[type]);
     } else {
       console.log(type);
     }
@@ -33,7 +32,7 @@ function dataFetch(type="tea") {
   })
 }
 
-function singleL(products, type) {
+function singleL(type, products) {
   products.forEach((product, i=0) => {
     let pName = document.createTextNode(product.name);
     let pPrice = document.createTextNode(product.price+"$");
@@ -61,7 +60,6 @@ function singleL(products, type) {
     pCont.appendChild(document.createTextNode(++i));
 
     pContCon.appendChild(pCont);
-    console.log(pName);
   })
 }
 
