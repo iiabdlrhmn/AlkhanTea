@@ -26,9 +26,8 @@ function dataFetch(type="tea") {
     if (type == "tea" || type == "icecream") {
       singleL(type, menu[type]);
     } else {
-      console.log(type);
+      multiL(type, menu[type])
     }
-    
   })
 }
 
@@ -63,11 +62,28 @@ function singleL(type, products) {
   })
 }
 
-
-
-
-
-
+function multiL(type, lists) {
+  let productTypes = Object.keys(lists);
+  let productLists = new Array();
+  productTypes.forEach(ptype => {
+    productLists[productLists.length] = lists[ptype];
+  })
+  productLists.forEach((list, i=0) => {
+    let pTypeNameCont = document.createElement("div");
+    let pTypeName = document.createElement("h3");
+    let hr = document.createElement("hr");
+    let hr2 = document.createElement("hr");
+    let pTypeText = document.createTextNode(productTypes[i++]);
+    pTypeNameCont.classList.add("p-type-cont");
+    pTypeName.appendChild(pTypeText);
+    pTypeNameCont.appendChild(hr);
+    pTypeNameCont.appendChild(pTypeName);
+    pTypeNameCont.appendChild(hr2)
+    document.querySelector(`.${type}`).appendChild(pTypeNameCont);
+    
+    singleL(type, list);
+  })
+}
 
 
 // automatically bring the products on the page load
