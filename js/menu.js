@@ -1,5 +1,6 @@
 let listItems = document.querySelectorAll(".nav-menu > *");
 let contDiv = document.querySelectorAll(".menu");
+let topBtn = document.getElementById("backToTop");
 
 listItems.forEach((item) => {
   item.addEventListener("click", () => {
@@ -85,6 +86,21 @@ function multiL(type, lists) {
   })
 }
 
+window.addEventListener("scroll", () => {
+  if (window.scrollY >= 350) {
+    topBtn.classList.add("show")
+  } else {
+    topBtn.classList.remove("show")
+  }
+})
+
+topBtn.addEventListener("click", () => {
+  window.scroll({
+    top: 0,
+    left: 0,
+    behavior: "smooth",
+  });
+})
 
 // automatically bring the products on the page load
 window.addEventListener("load", () => {

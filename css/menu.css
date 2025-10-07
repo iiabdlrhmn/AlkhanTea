@@ -8,6 +8,36 @@ body {
   margin: 10px;
 }
 
+#backToTop {
+  width: 60px;
+  height: 60px;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  background-color: transparent;
+  border: none;
+  transition: all 250ms;
+  transform: translateY(100%) translateX(100%);
+}
+
+#backToTop * {
+  stroke: rgb(170 120 0);
+  transition: all 100ms;
+}
+
+#backToTop:active * {
+  stroke: rgb(200 110 0);
+}
+
+.show {
+  transform: translate(0%) !important;
+}
+
+#btnSvg {
+  width: 100%;
+  height: 100%; 
+}
+
 
 @media (max-width: 450px) {
   .content-con {
