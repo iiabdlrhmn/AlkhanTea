@@ -21,7 +21,7 @@ listItems.forEach((item) => {
 });
 
 function dataFetch(type="tea") {
-  fetch("/assets/data/menu.json")
+  fetch("assets/data/menu.json")
   .then(res => res.json())
   .then(menu => {    
     if (type == "tea" || type == "icecream") {
