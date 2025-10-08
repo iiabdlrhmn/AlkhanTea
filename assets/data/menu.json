@@ -1,7 +1,7 @@
 {
   "tea": [
     {
-      "name": "Alkhan Tea",
+      "name": "Alkhan tea",
       "price": 1500
     },
     {
@@ -9,7 +9,7 @@
       "price": 3000
     },
     {
-      "name": "Alkhan tea with roses",
+      "name": "Alkhan tea with mohammadi rose",
       "price": 1500
     },
     {
@@ -17,7 +17,7 @@
       "price": 3000
     },
     {
-      "name": "Alkhan tea with Mawy rose",
+      "name": "Alkhan tea with maui rose",
       "price": 1500
     },
     {
@@ -49,35 +49,35 @@
       "price": 2000
     },
     {
-      "name": "Alkhan Green tea",
+      "name": " Alkhan tea Green",
       "price": 2000
     },
     {
-      "name": "Alkhan Tea in Numi Basra",
+      "name": "Alkhan tea in Numi Basra",
       "price": 2000
     },
     {
-      "name": "Anise",
+      "name": "Anise tea",
       "price": 3000
     },
     {
-      "name": "Numi Basra tea",
+      "name": "Numi Basra",
       "price": 1500
     },
     {
-      "name": "Zhourat",
+      "name": "herbal tea",
       "price": 2500
     },
     {
-      "name": "Darsin",
+      "name": "cinnamon",
       "price": 2000
     },
     {
-      "name": "Lemon Flower",
+      "name": "Lemon Blossom",
       "price": 2500
     },
     {
-      "name": "Hibiscus",
+      "name": "Karkidih",
       "price": 3000
     },
     {
@@ -89,19 +89,19 @@
       "price": 3000
     },
     {
-      "name": "lemon leaves",
+      "name": "Lemon Leaves",
       "price": 3000
     },
     {
-      "name": "Cinnamon with milk",
+      "name": "cinnamon with milk",
       "price": 2000
     },
     {
-      "name": "Saffron milk",
+      "name": "Saffron with milk",
       "price": 5000
     },
     {
-      "name": "Milk with honey",
+      "name": "Milk with Honey",
       "price": 3000
     },
     {
@@ -109,7 +109,7 @@
       "price": 5000
     },
     {
-      "name": "Chamomile tea",
+      "name": "Babunj",
       "price": 3000
     },
     {
@@ -117,11 +117,11 @@
       "price": 5000
     },
     {
-      "name": "Mate",
+      "name": "Yerba Mate tea",
       "price": 3000
     },
     {
-      "name": "Sahleb",
+      "name": "Sahlab",
       "price": 5000
     },
     {
@@ -184,7 +184,7 @@
         "price": 3500
       },
       {
-        "name": "Espresso con Panna (Italian)",
+        "name": "Espresso Panna Italian",
         "price": 3500
       },
       {
@@ -196,11 +196,11 @@
         "price": 3500
       },
       {
-        "name": "Arabic coffee with cardamom",
+        "name": "Arabic Coffee with Hil",
         "price": 3500
       },
       {
-        "name": "Qazwan (Botm)",
+        "name": "Qazwan Batm",
         "price": 4000
       },
       {
@@ -215,7 +215,7 @@
     
     "cold": [
       {
-        "name": "Espresso Martini",
+        "name": "Alfredo Espresso",
         "price": 5000
       },
       {
@@ -319,7 +319,7 @@
         "price": 5000
       },
       {
-        "name": "Red watermeelon mojito",
+        "name": "Red watermelon mojito",
         "price": 5000
       }
     ]

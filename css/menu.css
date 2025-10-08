@@ -23,10 +23,12 @@ body {
 #backToTop * {
   stroke: rgb(170 120 0);
   transition: all 100ms;
+  /* cursor: pointer; */
 }
 
 #backToTop:active * {
-  stroke: rgb(200 110 0);
+  stroke: rgb(230 120 0);
+  cursor: pointer;
 }
 
 .show {
