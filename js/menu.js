@@ -102,7 +102,50 @@ topBtn.addEventListener("click", () => {
   });
 })
 
+function lang() {
+  let langBlur = document.createElement("div");
+  langBlur.classList.add("lang-blur");
+  let langCont = document.createElement("div");
+  langCont.classList.add("lang-cont");
+
+  let langH = document.createElement("h3");
+  langH.innerText = "Choose your language";
+  
+  let arBtn = document.createElement("button");
+  arBtn.id = "arBtn";
+  let arlang = document.createTextNode("العربية");
+  arBtn.appendChild(arlang);
+
+  let enBtn = document.createElement("button");
+  enBtn.id = "enBtn";
+  enBtn.innerText= "english" ;
+
+  let btnsCont = document.createElement("div");
+  btnsCont.classList.add("btns-cont");
+  btnsCont.appendChild(arBtn);
+  btnsCont.appendChild(enBtn);
+  
+  langCont.appendChild(langH);
+  langCont.appendChild(btnsCont);
+  langBlur.appendChild(langCont)
+  document.body.appendChild(langBlur);
+  document.body.style.overflow = "hidden";
+  langSelect();
+}
+
+function langSelect() {
+  let langBtns = document.querySelectorAll(".btns-cont > button");
+  langBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      console.log(btn.innerText);
+      document.querySelector(".lang-blur").remove();
+      document.body.style.overflow = "visible";
+    })
+  })
+}
+
 // automatically bring the products on the page load
 window.addEventListener("load", () => {
+  lang();
   dataFetch()
 });
