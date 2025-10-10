@@ -1,3 +1,20 @@
+@font-face {
+  font-family: "Sakkal";
+  src: url(../assets/fonts/SAKKAL\ KITAB-MEDIUM.TTF);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sakkal light";
+  src: url(../assets/fonts/SAKKAL\ KITAB-LIGHT.TTF);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sakkal heavy";
+  src: url(../assets/fonts/SAKKAL\ KITAB-HEAVY.TTF);
+  font-weight: normal;
+}
 body {
   margin: 0;
   padding: 0 0 30px;
@@ -81,6 +98,7 @@ body {
 
 html[lang="ar"] * {
   text-align: right;
+  font-family: "Sakkal";
 }
 
 
