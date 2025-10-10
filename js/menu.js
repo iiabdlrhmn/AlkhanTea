@@ -36,7 +36,7 @@ function dataFetch(type="tea") {
 function singleL(type, products) {
   products.forEach((product, i=0) => {
     let pName = document.createTextNode(product.name);
-    let pPrice = document.createTextNode(product.price+"$");
+    let pPrice = document.createTextNode(product.price);
     
     let pContCon = document.querySelector(`.${type}`);
 
@@ -101,7 +101,7 @@ topBtn.addEventListener("click", () => {
     left: 0,
     behavior: "smooth",
   });
-})
+});
 
 function lang() {
   let langBlur = document.createElement("div");
@@ -141,11 +141,29 @@ function langSelect() {
       document.querySelector("html").setAttribute("lang", btn.id.slice(0, 2));
       document.querySelector(".lang-blur").remove();
       document.body.style.overflow = "visible";
+      changeLang();
       return dataFetch();
-    })
-  })
+    });
+  });
 }
 
+function changeLang() {
+  let tea = document.getElementById("tea");
+  let drinks = document.getElementById("drinks");
+  let icecream = document.getElementById("icecream");
+  let sweets = document.getElementById("sweets");
+  if (document.querySelector("html").getAttribute("lang") == "ar") {
+    tea.innerText = "الشاي";
+    drinks.innerText = "المشروبات";
+    icecream.innerText = "الآيس كريم";
+    sweets.innerText = "الحلويات";
+  } else {
+    tea.innerText = "Tea";
+    drinks.innerText = "Drinks";
+    icecream.innerText = "Ice cream";
+    sweets.innerText = "Sweets";
+  }
+}
 // automatically bring the products on the page load
 window.addEventListener("load", () => {
   lang();

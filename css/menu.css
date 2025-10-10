@@ -54,30 +54,34 @@ body {
     backdrop-filter: blur(10px)
   }
   
-  .lang-cont {
-    width: 50%;
-    height: 25%;
-    border: solid #000 3px;
-    border-radius: 20px;
-    background-color: white;
-    display: flex;
-    flex-flow: column nowrap;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .btns-cont {
-    display: flex;
-    flex-flow: row nowrap;
-    gap: 10px;
-  }
+.lang-cont {
+  width: 50%;
+  height: 25%;
+  border: solid #000 3px;
+  border-radius: 20px;
+  background-color: white;
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: center;
+  align-items: center;
+}
 
-  .btns-cont button {
-    width: 75px;
-    height: 35px;
-    font-size: 17px;
-    border-radius: 10px;
-  }
+.btns-cont {
+  display: flex;
+  flex-flow: row nowrap;
+  gap: 10px;
+}
+
+.btns-cont button {
+  width: 75px;
+  height: 35px;
+  font-size: 17px;
+  border-radius: 10px;
+}
+
+html[lang="ar"] * {
+  text-align: right;
+}
 
 
 @media (max-width: 450px) {
@@ -147,13 +151,16 @@ body {
     min-height: 100px;
     padding: 20px;
     box-sizing: border-box;
-    border: solid #000 1px;
-    border-radius: 15px;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
     gap: 15px;
+    background-image: url("../assets/images/PAPER.png");
+    background-repeat: no-repeat;
+    background-size: 140% 113%;
+    background-position-x: 52%;
+    background-position-y: 55%;
   }
 
   .p-cont > div {
