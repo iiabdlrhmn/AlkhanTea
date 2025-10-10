@@ -21,7 +21,8 @@ listItems.forEach((item) => {
 });
 
 function dataFetch(type="tea") {
-  fetch("../assets/data/menu.json")
+  let lang = document.querySelector("html").getAttribute("lang");
+  fetch(`../assets/data/menu-${lang}.json`)
   .then(res => res.json())
   .then(menu => {    
     if (type == "tea" || type == "icecream") {
@@ -137,9 +138,10 @@ function langSelect() {
   let langBtns = document.querySelectorAll(".btns-cont > button");
   langBtns.forEach(btn => {
     btn.addEventListener("click", () => {
-      console.log(btn.innerText);
+      document.querySelector("html").setAttribute("lang", btn.id.slice(0, 2));
       document.querySelector(".lang-blur").remove();
       document.body.style.overflow = "visible";
+      return dataFetch();
     })
   })
 }
@@ -147,5 +149,4 @@ function langSelect() {
 // automatically bring the products on the page load
 window.addEventListener("load", () => {
   lang();
-  dataFetch()
 });
