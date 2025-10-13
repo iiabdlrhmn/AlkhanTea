@@ -18,7 +18,7 @@
 body {
   margin: 0;
   padding: 0 0 30px;
-  background-color: rgb(100 100 100);
+  background-color: rgb(130 100 75);
 }
 
 #header {
@@ -38,9 +38,9 @@ body {
 }
 
 #backToTop * {
-  stroke: rgb(170 120 0);
+  stroke: rgb(255, 200, 75);
   transition: all 100ms;
-  /* cursor: pointer; */
+  cursor: pointer;
 }
 
 #backToTop:active * {
@@ -117,14 +117,16 @@ html[lang="ar"] * {
     flex-flow: row wrap;
     justify-content: space-evenly;
     align-items: center;
-    gap: 1px;
+    gap: 3px;
   }
 
   .nav-menu > li {
     list-style: none;
-    width: calc(33.4% - 1px);
+    width: calc(33.4% - 4px);
     height: 30px;
     border: solid #000 1px;
+    border-radius: 1.4vh;
+    background-color: rgb(220 190 90 / 70%);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -136,7 +138,10 @@ html[lang="ar"] * {
   .active {
     order: 999999;
     margin-top: 10px;
+    border-bottom: none !important;
+    border-radius: 15px 15px 0px 0px !important;
     font-weight: bold !important;
+    background-color: rgba(165, 145, 75, 0.5) !important;
   }
   
   .menu {
@@ -145,6 +150,7 @@ html[lang="ar"] * {
     padding: 15px 0px;
     box-sizing: border-box;
     display: none;
+    background-color: rgb(165, 145, 75, 0.5);
     justify-content: center;
     align-items: center;
     flex-flow: column;
@@ -154,12 +160,6 @@ html[lang="ar"] * {
 
   .tea {
     display: flex;
-  }
-
-  .active {
-    border-top-left-radius: 15px;
-    border-top-right-radius: 15px;
-    border-bottom: none !important;
   }
 
   /* post styles */
