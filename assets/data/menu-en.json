@@ -2,325 +2,404 @@
   "tea": [
     {
       "name": "Alkhan tea",
-      "price": 1500
+      "price": 1500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with saffron",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with mohammadi rose",
-      "price": 1500
+      "price": 1500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with coffee",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with maui rose",
-      "price": 1500
+      "price": 1500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with sage",
-      "price": 2500
+      "price": 2500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with apple",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with orange",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with lemon",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with milk",
-      "price": 2000
+      "price": 2000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea with kiwi",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan mint tea",
-      "price": 2000
+      "price": 2000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": " Alkhan tea Green",
-      "price": 2000
+      "price": 2000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Alkhan tea in Numi Basra",
-      "price": 2000
+      "price": 2000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Anise tea",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Numi Basra",
-      "price": 1500
+      "price": 1500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "herbal tea",
-      "price": 2500
+      "price": 2500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "cinnamon",
-      "price": 2000
+      "price": 2000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Lemon Blossom",
-      "price": 2500
+      "price": 2500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Karkidih",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Mohammadi rose",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Maui rose",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Lemon Leaves",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "cinnamon with milk",
-      "price": 2000
+      "price": 2000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Saffron with milk",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Milk with Honey",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Lemon + Honey + Ginger",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Babunj",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Matcha tea",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Yerba Mate tea",
-      "price": 3000
+      "price": 3000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Sahlab",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Water",
-      "price": 500
+      "price": 500,
+      "photo": "../assets/images/products/"
     }
   ],
   "drinks": {
     "hot": [
       {
         "name": "Americano",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Americano with milk",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Espresso Lonco",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Cappuccino",
-        "price": 4500
+        "price": 4500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mocha",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Vanilla latte",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Caramel latte",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Cortado",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Hot Chocolate",
-        "price": 4500
+        "price": 4500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Nescafe",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Spanish latte",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Espresso",
-        "price": 3000
+        "price": 3000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Espresso Macchiato",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Espresso Panna Italian",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Espresso Doppio",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Turkish coffee",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Arabic Coffee with Hil",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Qazwan Batm",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Hazelnut coffee",
-        "price": 4500
+        "price": 4500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "French coffee",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       }
     ],
     
     "cold": [
       {
         "name": "Alfredo Espresso",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Greek Frappe",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Italian Frappe",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "latte",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Chocolate",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "milkshake",
-        "price": 5500
+        "price": 5500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Caramel milkshake",
-        "price": 5500
+        "price": 5500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Vanilla milkshake",
-        "price": 5500
+        "price": 5500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Oreo milkshake",
-        "price": 5500
+        "price": 5500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Chocolate milkshake",
-        "price": 5500
+        "price": 5500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Strawberry milkshake",
-        "price": 5500
+        "price": 5500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Alkhan Milkshake",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Orange juice",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Lemon juice",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mint juice",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Watermelon juice",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pomegranate juice",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Milk and banana juice",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Alkhan juice",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mojito Traditional",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Strawberry Mojito",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Kiwi Mojito",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pomegranate Mojito",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Blue Hawaii Mojito",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mexican Mojito",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Lady of the Rose",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Red watermelon mojito",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       }
     ]
   },
@@ -328,27 +407,33 @@
   "icecream": [
     {
       "name": "Scoops ( chocolate , pistachio , caramel , strawberry , mixed )",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Banana Split ( vanilla ,chocolate , caramel , fresh banana )",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Coke Zimo ( 2 scoops vanilla )",
-      "price": 5000
+      "price": 5000,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Chocolate avocado",
-      "price": 6500
+      "price": 6500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Avocado vanilla",
-      "price": 6500
+      "price": 6500,
+      "photo": "../assets/images/products/"
     },
     {
       "name": "Avocado caramel",
-      "price": 7000
+      "price": 7000,
+      "photo": "../assets/images/products/"
     }
   ],
 
@@ -356,204 +441,252 @@
     "sweets": [
       {
         "name": "fruit crepe",
-        "price": 7000 
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Nutella crepe",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Lotus crepe",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pistachio crepe",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Chocolate pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Lotus pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pistachio pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Nutella pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Fruit pancakes",
-        "price": 7000
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Caramel pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mixed pancakes",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Chocolate waffle",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pistachio waffle",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Lotus waffle",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Fruit waffle",
-        "price": 7000
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Alkhan cake",
-        "price": 7000
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Fruit salad",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Nuts",
-        "price": 3000
+        "price": 3000,
+        "photo": "../assets/images/products/"
       }
     ],
 
     "cake": [
       {
         "name": "San sebastian",
-        "price": 7000
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Red Velvet",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Blueberry Cheesecake",
-        "price": 7000
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Strawberry Cheesecake",
-        "price": 7000
+        "price": 7000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Milk cake",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Tiramisu",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Plain iraqi cake",
-        "price": 2000
+        "price": 2000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "iraqi chocolate cake",
-        "price": 3000
+        "price": 3000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Oreo cake",
-        "price": 4500
+        "price": 4500,
+        "photo": "../assets/images/products/"
       }
     ],
 
     "snacks": [
       {
         "name": "Iraqi cookie",
-        "price": 2500
+        "price": 2500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Klicha",
-        "price": 2500
+        "price": 2500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Cookies",
-        "price": 2500
+        "price": 2500,
+        "photo": "../assets/images/products/"
       }
     ],
 
     "pies": [
       {
         "name": "Chocolate croissant",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Cheese croissant",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Croissant",
-        "price": 3500
+        "price": 3500,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "cold toast",
-        "price": 3000
+        "price": 3000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Cheese toast",
-        "price": 3000
+        "price": 3000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Turkey pastries",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Meat pastries",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Chicken pastries",
-        "price": 6000
+        "price": 6000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mortadella pastries",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Thyme & cheese pastries",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "cheese pastries",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Black seed & cheese pastries",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Spinach & cheese pastries",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Pepperoni pastries",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Sausage pastries",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Mushroom pastries",
-        "price": 5000
+        "price": 5000,
+        "photo": "../assets/images/products/"
       },
       {
         "name": "Olive oil & thyme pastries",
-        "price": 4000
+        "price": 4000,
+        "photo": "../assets/images/products/"
       }
     ]
   }
