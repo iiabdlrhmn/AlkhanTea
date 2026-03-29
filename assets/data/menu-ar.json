@@ -1,161 +1,181 @@
 {
   "tea": [
     {
+      "id": 1,
       "name": "شاي الخان",
-      "price": "١٥٠٠",
+      "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 2,
+      "name": "شاي الخان (كرك)",
+      "price": "٥٠٠٠",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 3,
       "name": "شاي الخان بالزعفران",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 4,
       "name": "شاي الخان بالورد المحمدي",
-      "price": "١٥٠٠",
+      "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 5,
       "name": "شاي الخان بالقهوة",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 6,
       "name": "شاي الخان بالورد الماوي",
-      "price": "١٥٠٠",
+      "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 7,
       "name": "شاي الخان بالمرامية",
       "price": "٢٥٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 8,
       "name": "شاي  الخان بالتفاح",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 9,
       "name": "شاي الخان بالبرتقال",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 10,
       "name": "شاي الخان بالليمون",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 11,
       "name": "شاي الخان بالحليب",
       "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 12,
       "name": "شاي الخان بالكيوي",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 13,
       "name": "شاي الخان بالنعناع",
       "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 14,
+      "name": " شاي الخان بالخوخ",
+      "price": "٣٠٠٠",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 15,
       "name": "شاي الخان اخضر",
       "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 16,
       "name": "شاي الخان بالنومي البصرة",
       "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 17,
       "name": "يانسون",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 18,
       "name": "نومي بصرة",
-      "price": "١٥٠٠",
+      "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 19,
       "name": "زهورات",
       "price": "٢٥٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 20,
       "name": "دارسين",
       "price": "٢٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 21,
       "name": "زهرة الليمون",
       "price": "٢٥٠٠",
       "photo": "../assets/images/products/"
     },
     {
-      "name": "كركديه",
+      "id": 22,
+      "name": "كجرات",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 23,
       "name": "ورد محمدي",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 24,
       "name": "ورد ماوي",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 25,
       "name": "أوراق الليمون",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
-      "name": "دارسين بالحليب",
-      "price": "٢٠٠٠",
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "حليب بالزعفران",
+      "id": 26,
+      "name": "لیمون+ عسل + زنجبیل",
       "price": "٥٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
-      "name": "حليب بالعسل",
-      "price": "٣٠٠٠",
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "ليمون+ عسل + زنجبيل",
-      "price": "٥٠٠٠",
-      "photo": "../assets/images/products/"
-    },
-    {
+      "id": 27,
       "name": "بابونك",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 28,
       "name": "شاي الماتشا",
       "price": "٥٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 29,
       "name": "مته",
       "price": "٣٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
-      "name": "سحلب",
-      "price": "٥٠٠٠",
-      "photo": "../assets/images/products/"
-    },
-    {
+      "id": 30,
       "name": "ماء",
       "price": 500,
       "photo": "../assets/images/products/"
@@ -164,241 +184,355 @@
   "drinks": {
     "ساخنة": [
       {
-        "name": "امريكانو",
-        "price": "٤٠٠٠",
+        "id": 1,
+        "name": "حلیب بالدارسین",
+        "price": "٣٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "امريكانو بالحليب",
-        "price": "٤٠٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "اسبريسو لونكو",
+        "id": 2,
+        "name": "حلیب بالزعفران",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 3,
+        "name": "حليب بالعسل",
+        "price": "٣٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 4,
+        "name": "سحلب",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 5,
         "name": "كابتشينو",
-        "price": "٤٥٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "موكا",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 6,
         "name": "لاتيه فانيلا",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 7,
         "name": "لاتيه كراميل",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "كورتادو",
-        "price": "٤٠٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 8,
         "name": "هوت شوكلت",
         "price": "٤٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 9,
         "name": "نسكافيه",
         "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 10,
         "name": "سبانش لاتيه",
-        "price": "٥٠٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 11,
+        "name": "قزوان ( قھوة بطم )",
+        "price": "٤٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 12,
         "name": "اسبريسو",
         "price": "٣٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 13,
         "name": "اسبريسو ميكاتو",
-        "price": "٣٥٠٠",
+        "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 14,
         "name": "اسبريسو كون بانا ( إيطالي )",
-        "price": "٣٥٠٠",
+        "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "اسبريسو دوبيو",
+        "id": 15,
+        "name": "اسبريسو دبل",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 16,
+        "name": "امريكانو",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 17,
+        "name": "امريكانو بالحليب",
+        "price": "٦٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 18,
+        "name": "موكا",
+        "price": "٦٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      
+      {
+        "id": 19,
+        "name": "كورتادو",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 20,
         "name": "قهوة تركية",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 21,
         "name": "قهوة عربية بالهيل",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "قزوان ( بطم )",
-        "price": "٤٠٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 22,
         "name": "قهوة بالبندق",
         "price": "٤٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 23,
         "name": "قهوة فرنسية",
-        "price": "٤٠٠٠",
+        "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       }
     ],
     
     "الباردة": [
       {
+        "id": 1,
         "name": "الفريدو",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 2,
         "name": "فرابيه يوناني",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 3,
         "name": "فرابيه إيطالي",
-        "price": "٥٠٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 4,
         "name": "لاتيه",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 5,
         "name": "شوكلت",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "ميلك شيك",
-        "price": "٥٥٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 6,
         "name": "ميلك شيك كراميل",
-        "price": "٥٥٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 7,
         "name": "ميلك شيك فانيلا",
-        "price": "٥٥٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 8,
         "name": "ميلك شيك اوريو",
-        "price": "٥٥٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 9,
         "name": "ميلك شيك شوكلت",
-        "price": "٥٥٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 10,
         "name": "ميلك شيك فراولة",
-        "price": "٥٥٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 11,
         "name": "ميلك شيك الخان",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "عصير بالبرتقال",
+        "id": 12,
+        "name": "عصیر برتقال",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "عصير بالليمون",
+        "id": 13,
+        "name": "عصير ليمون",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "عصير بالنعناع",
+        "id": 14,
+        "name": "عصیر لیمون ونعناع",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "عصير بالبطيخ",
+        "id": 15,
+        "name": "عصير بطيخ",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "عصير بالرمان",
+        "id": 16,
+        "name": "عصير رمان",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "عصير حليب وموز",
+        "id": 17,
+        "name": "عصير موز بالحليب",
+        "price": "٥٥٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 18,
+        "name": "عصير حمضيات",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 19,
         "name": "عصير الخان",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 20,
         "name": "موهيتو كلاسيكي",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 21,
         "name": "موهيتو فراولة",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 22,
         "name": "موهيتو كيوي",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 23,
         "name": "موهيتو رمان",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 24,
         "name": "موهيتو بلو هاواي",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "موهيتو مكسيكانو",
+        "id": 25,
+        "name": "مكسيكانو",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "سيدة الورد",
+        "id": 26,
+        "name": "مكس بیري رید بول",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "موهيتو بالرقي",
+        "id": 27,
+        "name": "سموذي فراولة",
         "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 28,
+        "name": "سموذي بلو بیري",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 29,
+        "name": "سموذي پاشن فروتي",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 30,
+        "name": "سموذي اناناس",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 31,
+        "name": "سموذي مانكو",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 32,
+        "name": "سموذي خوخ",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 33,
+        "name": "سموذي لیمون",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 34,
+        "name": "سموذي كیوي",
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 35,
+        "name": "سموذي الخان",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       }
     ]
@@ -406,31 +540,37 @@
 
   "icecream": [
     {
+      "id": 1,
       "name": "السكوبات ( شوكلت , فستق , كراميل , فراولة , مشكل )",
       "price": "٥٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 2,
       "name": "بانانا سبلت ( فانيلا , شوكلت , كراميل , موز فريش )",
       "price": "٥٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 3,
       "name": "كوك زيمو ( سكوبين فانيلا)",
       "price": "٥٠٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 4,
       "name": "افوكادو شوكلت",
       "price": "٦٥٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 5,
       "name": "افوكادو فانيلا",
       "price": "٦٥٠٠",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 6,
       "name": "افوكادو كراميل",
       "price": "٧٠٠٠",
       "photo": "../assets/images/products/"
@@ -440,95 +580,109 @@
   "sweets": {
     "الحلويات": [
       {
-        "name": "كريب بالفواكه",
-        "price": "٧٠٠٠",
-        "photo": "../assets/images/products/" 
-      },
-      {
-        "name": "كريب بالنوتيلا",
-        "price": "٦٠٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 3,
         "name": "كريب باللوتس",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 2,
+        "name": "كريب بالنوتيلا",
+        "price": "٦٠٠٠",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 1,
+        "name": "كريب بالاوريو",
+        "price": "٧٠٠٠",
+        "photo": "../assets/images/products/" 
+      },
+      {
+        "id": 1,
+        "name": "كريب بالفواكه",
+        "price": "٧٠٠٠",
+        "photo": "../assets/images/products/" 
+      },
+      {
+        "id": 4,
         "name": "كريب بالفستق",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "بان كيك",
+        "id": 6,
+        "name": "بان كيك بالشوكلت",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "بان كيك شوكلت",
-        "price": "٦٠٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 7,
         "name": "بان كيك باللوتس",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 8,
         "name": "بان كيك بالبستاشيو",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 9,
         "name": "بان كيك بالنوتيلا",
-        "price": "٦٠٠٠"
+        "price": "٦٠٠٠",
+        "photo": "../assets/images/products/"
       },
       {
+        "id": 10,
         "name": "بان كيك بالفواكه",
         "price": "٧٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "بان كيك بالكراميل",
-        "price": "٦٠٠٠",
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 12,
         "name": "بان كيك مكس",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "وافل شوكلت",
+        "id": 13,
+        "name": "وافل بالشوكلت",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "وافل بستاشيو",
+        "id": 14,
+        "name": "وافل بالبستاشیو",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "وافل لوتس",
+        "id": 15,
+        "name": "وافل باللوتس",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "وافل فواكه",
+        "id": 16,
+        "name": "وافل بالفواكھ",
         "price": "٧٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "كيك الخان",
+        "id": 17,
+        "name": "دونات",
         "price": "٧٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "سلطة فواكه",
+        "id": 18,
+        "name": "دونات محشي",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 19,
         "name": "كرزات",
         "price": "٣٠٠٠",
         "photo": "../assets/images/products/"
@@ -537,46 +691,55 @@
 
     "الكيك": [
       {
+        "id": 1,
         "name": "سان سبستيان",
         "price": "٧٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 2,
         "name": "ريد ڤالڤت",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 3,
         "name": "تشيز كيك توت",
         "price": "٧٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 4,
         "name": "تشيز كيك فراولة",
         "price": "٧٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 5,
         "name": "كيك بالحليب",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 6,
         "name": "تراميسو",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 7,
         "name": "كيك عراقي سادة",
         "price": "٢٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 8,
         "name": "كيك عراقي شوكلت",
         "price": "٣٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 9,
         "name": "اوريو كيك",
         "price": "٤٥٠٠",
         "photo": "../assets/images/products/"
@@ -585,16 +748,19 @@
 
     "سناك": [
       {
+        "id": 1,
         "name": "كعك",
         "price": "٢٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 2,
         "name": "كليجة",
         "price": "٢٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 3,
         "name": "كوكيز",
         "price": "٢٥٠٠",
         "photo": "../assets/images/products/"
@@ -603,86 +769,103 @@
 
     "الفطائر": [
       {
+        "id": 1,
         "name": "كرواسون بالشوكلت",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 2,
         "name": "كرواسون سادة",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 3,
         "name": "كرواسون بالجبن ",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 4,
         "name": "توست بارد",
         "price": "٣٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 5,
         "name": "توست بالجبن",
         "price": "٣٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 6,
         "name": "فطائر بالحبش",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 7,
         "name": "فطائر بالحم",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 8,
         "name": "فطائر بالدجاج",
         "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 9,
         "name": "فطائر بالمورتديلا",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 10,
         "name": "فطائر بالزعتر والجبن",
         "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 11,
         "name": "فطائر بالجبن",
         "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 12,
         "name": "فطائر بالجبن وحبة سودة",
         "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 13,
         "name": "فطائر بالسبانخ والجبن",
         "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 14,
         "name": "فطائر باباروني",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 15,
         "name": "فطائر نقانق",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 16,
         "name": "فطائر المشروم",
         "price": "٥٠٠٠",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 17,
         "name": "فطائر زيت وزعتر",
         "price": "٤٠٠٠",
         "photo": "../assets/images/products/"
