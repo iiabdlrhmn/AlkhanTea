@@ -45,7 +45,6 @@ body {
 
 #backToTop:active * {
   stroke: rgb(230 120 0);
-  cursor: pointer;
 }
 
 .show {
@@ -142,12 +141,15 @@ html[lang="ar"] * {
     border-radius: 15px 15px 0px 0px !important;
     font-weight: bold !important;
     background-color: rgba(165, 145, 75, 0.5) !important;
+    position: absolute;
+    top: 100px;
   }
   
   .menu {
     width: 80%;
     min-height: 150px;
     padding: 15px 0px;
+    margin-top: 50px;
     box-sizing: border-box;
     display: none;
     background-color: rgb(165, 145, 75, 0.5);
@@ -195,6 +197,12 @@ html[lang="ar"] * {
     justify-content: center;
     align-items: center;
     background-color: #fff; 
+  }
+
+  .p-photo-con > img {
+    width: inherit;
+    height: inherit;
+    border-radius: inherit;
   }
   
   .p-type-cont {

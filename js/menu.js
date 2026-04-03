@@ -25,7 +25,7 @@ function dataFetch(type="tea") {
   fetch(`../assets/data/menu-${lang}.json`)
   .then(res => res.json())
   .then(menu => {    
-    if (type == "tea" || type == "icecream") {
+    if (type == "tea" || type == "icecream" || type == "shisha") {
       singleL(type, menu[type]);
     } else {
       multiL(type, menu[type])
@@ -37,15 +37,18 @@ function singleL(type, products) {
   products.forEach((product, i=0) => {
     let pName = document.createTextNode(product.name);
     let pPrice = document.createTextNode(product.price);
-    
+    let pImg = document.createTextNode(product.photo);
     let pContCon = document.querySelector(`.${type}`);
 
     let pCont = document.createElement("div");
     pCont.classList.add("p-cont");
     
     let pPhotoDiv = document.createElement("div");
+    let pPhoto = document.createElement("img");
+    pPhoto.setAttribute("src", pImg.textContent);
     pPhotoDiv.classList.add("p-photo-con");
-    pPhotoDiv.innerText = "photo";
+    // pPhotoDiv.innerText = "photo";
+    pPhotoDiv.appendChild(pPhoto);
     
     let pPriceDiv = document.createElement("div");
     pPriceDiv.classList.add("p-price-con");
@@ -150,18 +153,24 @@ function langSelect() {
 function changeLang() {
   let tea = document.getElementById("tea");
   let drinks = document.getElementById("drinks");
-  let icecream = document.getElementById("icecream");
   let sweets = document.getElementById("sweets");
+  let meals = document.getElementById("meals");
+  let addons = document.getElementById("special");
+  let shisha = document.getElementById("shisha");
   if (document.querySelector("html").getAttribute("lang") == "ar") {
     tea.innerText = "الشاي";
     drinks.innerText = "المشروبات";
-    icecream.innerText = "الآيس كريم";
     sweets.innerText = "الحلويات";
+    meals.innerText = "الوجبات";
+    addons.innerText = "مميز الخان";
+    shisha.innerText = "الاراكيل";
   } else {
     tea.innerText = "Tea";
     drinks.innerText = "Drinks";
-    icecream.innerText = "Ice cream";
     sweets.innerText = "Sweets";
+    meals.innerText = "Meals";
+    addons.innerText = "Special";
+    shisha.innerText = "Shisha";
   }
 }
 // automatically bring the products on the page load
