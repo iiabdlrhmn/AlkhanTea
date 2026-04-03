@@ -1,693 +1,1313 @@
 {
   "tea": [
     {
+      "id": 1,
       "name": "Alkhan tea",
-      "price": 1500,
-      "photo": "../assets/images/products/"
+      "price": "2000",
+      "photo": "../assets/images/products/شاي الخان.JPG"
     },
     {
+      "id": 2,
+      "name": "Al Khan Karak Tea",
+      "price": "5000",
+      "photo": "../assets/images/products/كرك.JPG"
+    },
+    {
+      "id": 3,
       "name": "Alkhan tea with saffron",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "price": "3000",
+      "photo": "../assets/images/products/شاي الخان بالزعفران.JPG"
     },
     {
+      "id": 4,
       "name": "Alkhan tea with mohammadi rose",
-      "price": 1500,
-      "photo": "../assets/images/products/"
+      "price": "2000",
+      "photo": "../assets/images/products/شاي الخان بالورد المحمدي.JPG"
     },
     {
+      "id": 5,
       "name": "Alkhan tea with coffee",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "price": "3000",
+      "photo": "../assets/images/products/شاي الخان بالقهوة.JPG"
     },
     {
+      "id": 6,
       "name": "Alkhan tea with maui rose",
-      "price": 1500,
-      "photo": "../assets/images/products/"
+      "price": "2000",
+      "photo": "../assets/images/products/شاي ورد ماوي.JPG"
     },
     {
+      "id": 7,
       "name": "Alkhan tea with sage",
-      "price": 2500,
-      "photo": "../assets/images/products/"
+      "price": "2500",
+      "photo": "../assets/images/products/شاي الخان بالمرامية.JPG"
     },
     {
+      "id": 8,
       "name": "Alkhan tea with apple",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "price": "3000",
+      "photo": "../assets/images/products/شاي الخان بالتفاح.JPG"
     },
     {
+      "id": 9,
       "name": "Alkhan tea with orange",
-      "price": 3000,
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 10,
       "name": "Alkhan tea with lemon",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "price": "3000",
+      "photo": "../assets/images/products/شاي الخان بالليمون.JPG"
     },
     {
+      "id": 11,
       "name": "Alkhan tea with milk",
-      "price": 2000,
-      "photo": "../assets/images/products/"
+      "price": "2000",
+      "photo": "../assets/images/products/شاي الخان بالحليب.JPG"
     },
     {
-      "name": "Alkhan tea with kiwi",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "id": 12,
+      "name": "Alkhan tea witth kiwi",
+      "price": "3000",
+      "photo": "../assets/images/products/شاي الخان بالكيوي.JPG"
     },
     {
+      "id": 13,
       "name": "Alkhan mint tea",
-      "price": 2000,
+      "price": "2000",
+      "photo": "../assets/images/products/شاي الخان بالنعناع.JPG"
+    },
+    {
+      "id": 14,
+      "name": "Al Khan Peach Tea",
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
-      "name": " Alkhan tea Green",
-      "price": 2000,
+      "id": 15,
+      "name": "Alkhan tea Green",
+      "price": "2000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 16,
       "name": "Alkhan tea in Numi Basra",
-      "price": 2000,
+      "price": "2000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 17,
       "name": "Anise tea",
-      "price": 3000,
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 18,
       "name": "Numi Basra",
-      "price": 1500,
-      "photo": "../assets/images/products/"
+      "price": "2000",
+      "photo": "../assets/images/products/نومي بصرة.JPG"
     },
     {
+      "id": 19,
       "name": "herbal tea",
-      "price": 2500,
-      "photo": "../assets/images/products/"
+      "price": "2500",
+      "photo": "../assets/images/products/زهورات.JPG"
     },
     {
+      "id": 20,
       "name": "cinnamon",
-      "price": 2000,
-      "photo": "../assets/images/products/"
+      "price": "2000",
+      "photo": "../assets/images/products/دارسين.JPG"
     },
     {
+      "id": 21,
       "name": "Lemon Blossom",
-      "price": 2500,
+      "price": "2500",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 22,
       "name": "Karkidih",
-      "price": 3000,
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 23,
       "name": "Mohammadi rose",
-      "price": 3000,
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 24,
       "name": "Maui rose",
-      "price": 3000,
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
+      "id": 25,
       "name": "Lemon Leaves",
-      "price": 3000,
+      "price": "3000",
       "photo": "../assets/images/products/"
     },
     {
-      "name": "cinnamon with milk",
-      "price": 2000,
+      "id": 26,
+      "name": "Lemon + Honey +Ginger",
+      "price": "5000",
       "photo": "../assets/images/products/"
     },
     {
-      "name": "Saffron with milk",
-      "price": 5000,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Milk with Honey",
-      "price": 3000,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Lemon + Honey + Ginger",
-      "price": 5000,
-      "photo": "../assets/images/products/"
-    },
-    {
+      "id": 27,
       "name": "Babunj",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "price": "3000",
+      "photo": "../assets/images/products/بابونج.JPG"
     },
     {
+      "id": 28,
       "name": "Matcha tea",
-      "price": 5000,
-      "photo": "../assets/images/products/"
+      "price": "5000",
+      "photo": "../assets/images/products/ماتشا شاي حار.JPG"
     },
     {
+      "id": 29,
       "name": "Yerba Mate tea",
-      "price": 3000,
-      "photo": "../assets/images/products/"
+      "price": "3000",
+      "photo": "../assets/images/products/مته.JPG"
     },
     {
-      "name": "Sahlab",
-      "price": 5000,
-      "photo": "../assets/images/products/"
-    },
-    {
+      "id": 30,
       "name": "Water",
-      "price": 500,
+      "price": "٥٠٠",
       "photo": "../assets/images/products/"
     }
   ],
   "drinks": {
-    "hot": [
+    "Hot": [
       {
-        "name": "Americano",
-        "price": 4000,
+        "id": 1,
+        "name": "Cinnamon with milk",
+        "price": "3000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Americano with milk",
-        "price": 4000,
+        "id": 2,
+        "name": "Saffron with milk",
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Espresso Lonco",
-        "price": 5000,
+        "id": 3,
+        "name": "Milk with Honey",
+        "price": "3000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Cappuccino",
-        "price": 4500,
-        "photo": "../assets/images/products/"
+        "id": 4,
+        "name": "Sahlab",
+        "price": "5000",
+        "photo": "../assets/images/products/سحلب.JPG"
       },
       {
-        "name": "Mocha",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "id": 5,
+        "name": "Cappuccinoo",
+        "price": "5000",
+        "photo": "../assets/images/products/كابتشينو.JPG"
       },
       {
-        "name": "Vanilla latte",
-        "price": 6000,
-        "photo": "../assets/images/products/"
+        "id": 6,
+        "name": "Vanilla Latte",
+        "price": "6000",
+        "photo": "../assets/images/products/لاتيه فانيلا.jpg"
       },
       {
-        "name": "Caramel latte",
-        "price": 6000,
-        "photo": "../assets/images/products/"
+        "id": 7,
+        "name": "Caramel Latte",
+        "price": "6000",
+        "photo": "../assets/images/products/لاتيه كراميل.jpg"
       },
       {
-        "name": "Cortado",
-        "price": 4000,
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 8,
         "name": "Hot Chocolate",
-        "price": 4500,
-        "photo": "../assets/images/products/"
+        "price": "4500",
+        "photo": "../assets/images/products/هوت شوكلت.JPG"
       },
       {
+        "id": 9,
         "name": "Nescafe",
-        "price": 4000,
-        "photo": "../assets/images/products/"
+        "price": "4000",
+        "photo": "../assets/images/products/نسكافيه.JPG"
       },
       {
-        "name": "Spanish latte",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "id": 10,
+        "name": "Spanish Latte",
+        "price": "6000",
+        "photo": "../assets/images/products/سبانش لاتيه.jpg"
       },
       {
-        "name": "Espresso",
-        "price": 3000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Espresso Macchiato",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Espresso Panna Italian",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Espresso Doppio",
-        "price": 5000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Turkish coffee",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Arabic Coffee with Hil",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 11,
         "name": "Qazwan Batm",
-        "price": 4000,
+        "price": "4000",
+        "photo": "../assets/images/products/قزوان بطم.JPG"
+      },
+      {
+        "id": 12,
+        "name": "Espresso",
+        "price": "3000",
+        "photo": "../assets/images/products/اسبريسو.JPG"
+      },
+      {
+        "id": 13,
+        "name": "Espresso Macchiato",
+        "price": "4000",
+        "photo": "../assets/images/products/اسبريسو ميكاتو.JPG"
+      },
+      {
+        "id": 14,
+        "name": "Espresso Panna Italian",
+        "price": "4000",
+        "photo": "../assets/images/products/كون بانا.JPG"
+      },
+      {
+        "id": 15,
+        "name": "Espesso Doppio",
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Hazelnut coffee",
-        "price": 4500,
+        "id": 16,
+        "name": "Americano",
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "French coffee",
-        "price": 4000,
+        "id": 17,
+        "name": "Americano with milk",
+        "price": "6000",
+        "photo": "../assets/images/products/امريكانو بالحليب.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Mocha",
+        "price": "6000",
+        "photo": "../assets/images/products/موكا.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Cortado",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 20,
+        "name": "Turkish Coffee",
+        "price": "3500",
+        "photo": "../assets/images/products/قهوة تركية دبل.JPG"
+      },
+      {
+        "id": 21,
+        "name": "Arabic Coffee with Hil",
+        "price": "3500",
+        "photo": "../assets/images/products/قهوة عربية بالهيل.JPG"
+      },
+      {
+        "id": 22,
+        "name": "Hazelnut Coffee",
+        "price": "4500",
+        "photo": "../assets/images/products/قهوة بندق.JPG"
+      },
+      {
+        "id": 23,
+        "name": "French Coffee",
+        "price": "5000",
         "photo": "../assets/images/products/"
       }
     ],
     
-    "cold": [
+    "Cold": [
       {
+        "id": 1,
+        "name": "Ice Cappuccinoo",
+        "price": "5000",
+        "photo": "../assets/images/products/ايس كابتشينو.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Ice Americano",
+        "price": "5000",
+        "photo": "../assets/images/products/ايس امريكانو.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Ice Americano with milk",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس امريكانو بالحليب.JPG"
+      },
+      {
+        "id": 4,
+        "name": "Ice Mocha",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس موكا.JPG"
+      },
+      {
+        "id": 5,
         "name": "Alfredo Espresso",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "5000",
+        "photo": "../assets/images/products/الفريدو.jpg"
       },
       {
+        "id": 6,
         "name": "Greek Frappe",
-        "price": 6000,
-        "photo": "../assets/images/products/"
+        "price": "6000",
+        "photo": "../assets/images/products/فرابيه يوناني.JPG"
       },
       {
+        "id": 7,
         "name": "Italian Frappe",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "6000",
+        "photo": "../assets/images/products/فرابيه ايطالي.JPG"
       },
       {
-        "name": "latte",
-        "price": 6000,
-        "photo": "../assets/images/products/"
+        "id": 8,
+        "name": "Latte",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس لاتيه.JPG"
       },
       {
+        "id": 9,
         "name": "Chocolate",
-        "price": 6000,
+        "price": "6000",
+        "photo": "../assets/images/products/ايس شوكلت.JPG"
+      },
+      {
+        "id": 10,
+        "name": "Caramel Milkshake",
+        "price": "6000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "milkshake",
-        "price": 5500,
+        "id": 11,
+        "name": "Vanilla Milkshake",
+        "price": "6000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Caramel milkshake",
-        "price": 5500,
+        "id": 12,
+        "name": "Oreo Milkshake",
+        "price": "6000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Vanilla milkshake",
-        "price": 5500,
+        "id": 13,
+        "name": "Chocolate Milkshake",
+        "price": "6000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Oreo milkshake",
-        "price": 5500,
+        "id": 14,
+        "name": "Strawberry Milkshake",
+        "price": "6000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Chocolate milkshake",
-        "price": 5500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Strawberry milkshake",
-        "price": 5500,
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 15,
         "name": "Alkhan Milkshake",
-        "price": 6000,
+        "price": "6000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 16,
         "name": "Orange juice",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "5000",
+        "photo": "../assets/images/products/برتقال.JPG"
       },
       {
+        "id": 17,
         "name": "Lemon juice",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "5000",
+        "photo": "../assets/images/products/عصير ليمون.JPG"
       },
       {
-        "name": "Mint juice",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "id": 18,
+        "name": "Lemon & Mint Juice",
+        "price": "5000",
+        "photo": "../assets/images/products/ليمون ونعناع.JPG"
       },
       {
+        "id": 19,
         "name": "Watermelon juice",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "5000",
+        "photo": "../assets/images/products/بطيخ.JPG"
       },
       {
-        "name": "Pomegranate juice",
-        "price": 6000,
-        "photo": "../assets/images/products/"
+        "id": 20,
+        "name": "Citrus Juice",
+        "price": "6000",
+        "photo": "../assets/images/products/رمان.JPG"
       },
       {
+        "id": 21,
         "name": "Milk and banana juice",
-        "price": 5000,
+        "price": "5500",
+        "photo": "../assets/images/products/عصير حليب وموز.JPG"
+      },
+      {
+        "id": 22,
+        "name": "Pomegranate juice",
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 23,
         "name": "Alkhan juice",
-        "price": 6000,
-        "photo": "../assets/images/products/"
+        "price": "6000",
+        "photo": "../assets/images/products/عصير الخان.JPG"
       },
       {
+        "id": 24,
         "name": "Mojito Traditional",
-        "price": 5000,
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 25,
         "name": "Strawberry Mojito",
-        "price": 5000,
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 26,
         "name": "Kiwi Mojito",
-        "price": 5000,
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 27,
         "name": "Pomegranate Mojito",
-        "price": 5000,
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 28,
         "name": "Blue Hawaii Mojito",
-        "price": 5000,
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 29,
         "name": "Mexican Mojito",
-        "price": 5000,
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Lady of the Rose",
-        "price": 5000,
+        "id": 30,
+        "name": "Mixed Berry Red Bull",
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Red watermelon mojito",
-        "price": 5000,
+        "id": 31,
+        "name": "Strawberry Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 32,
+        "name": "Blueberry Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 33,
+        "name": "Passion Fruit Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 34,
+        "name": "Pineapple Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 35,
+        "name": "Mango Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 36,
+        "name": "Peach Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 37,
+        "name": "Lemon Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 38,
+        "name": "Kiwi Smoothie",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 39,
+        "name": "Al Khan Smoothie",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      }
+    ],
+    "Iced tea": [
+      {
+        "id": 1,
+        "name": "Ice tea Alkhan",
+        "price": "4000",
+        "photo": "../assets/images/products/ايس تي شاي الخان.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Ice tea Alkhan with saffron",
+        "price": "3000",
+        "photo": "../assets/images/products/ايس تي شاي الخان زعفران.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Ice tea Alkhan with mohammadi rose",
+        "price": "2000",
+        "photo": "../assets/images/products/ايس تي ورد محمدي.JPG"
+      },
+      {
+        "id": 4,
+        "name": "Ice tea Alkhan with maui rose",
+        "price": "2000",
+        "photo": "../assets/images/products/ايس تي شاي الخان ورد ماوي.JPG"
+      },
+      {
+        "id": 5,
+        "name": "Ice tea Alkhan with apple",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 6,
+        "name": "Ice tea Alkhan with orange",
+        "price": "4000",
+        "photo": "../assets/images/products/ايس شاي الخان بالبرتقال.JPG"
+      },
+      {
+        "id": 7,
+        "name": "Ice tea Alkhan with lemon",
+        "price": "4000",
+        "photo": "../assets/images/products/ايس تي شاي الخان بالليمون.JPG"
+      },
+      {
+        "id": 8,
+        "name": "Ice tea Alkhan witth kiwi",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 9,
+        "name": "Ice tea Alkhan mint",
+        "price": "4000",
+        "photo": "../assets/images/products/اي تي شاي الخان بالنعناع.JPG"
+      },
+      {
+        "id": 10,
+        "name": "Ice tea Al Khan Peach",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 11,
+        "name": "Ice tea Alkhan Green",
+        "price": "4000",
+        "photo": "../assets/images/products/ايس تي شاي الخان اخضر.JPG"
+      },
+      {
+        "id": 12,
+        "name": "Ice tea Anise",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي ينسون.JPG"
+      },
+      {
+        "id": 13,
+        "name": "Ice tea Numi Basra",
+        "price": "3000",
+        "photo": "../assets/images/products/ايس تي نومي بصره.JPG"
+      },
+      {
+        "id": 14,
+        "name": "Ice tea herbal",
+        "price": "5000",
+        "photo": "../assets/images/products/ايس تي زهورات.JPG"
+      },
+      {
+        "id": 15,
+        "name": "Ice tea cinnamon",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي دارسين.JPG"
+      },
+      {
+        "id": 16,
+        "name": "Ice tea Lemon Blossom",
+        "price": "5000",
+        "photo": "../assets/images/products/ايس تي زهرة الليمون.JPG"
+      },
+      {
+        "id": 17,
+        "name": "Ice tea Karkidih",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي كوجرات.JPG"
+      },
+      {
+        "id": 18,
+        "name": "Ice tea Mohammadi rose",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي ورد محمدي.JPG"
+      },
+      {
+        "id": 19,
+        "name": "Ice tea Maui rose",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي ورد ماوي.JPG"
+      },
+      {
+        "id": 20,
+        "name": "Ice tea Lemon Leaves",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي اوراق الليمون.JPG"
+      },
+      {
+        "id": 21,
+        "name": "Ice tea Babunj",
+        "price": "6000",
+        "photo": "../assets/images/products/ايس تي بابونك.JPG"
+      }
+    ]
+  },
+
+  "sweets": {
+    "Sweets": [
+      {
+        "id": 1,
+        "name": "Lotus crepe",
+        "price": "6000",
+        "photo": "../assets/images/products/كريب لوتس.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Nutella crepe",
+        "price": "6000",
+        "photo": "../assets/images/products/كريب نوتلا.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Oreo crepe",
+        "price": "7000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 4,
+        "name": "fruit crepe",
+        "price": "7000",
+        "photo": "../assets/images/products/كريب فواكه.JPG"
+      },
+      {
+        "id": 5,
+        "name": "Pistachio crepe",
+        "price": "6000",
+        "photo": "../assets/images/products/كريب بستاشيو.JPG"
+      },
+      {
+        "id": 6,
+        "name": "Chocolate pancakes",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 7,
+        "name": "Lotus pancakes",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 8,
+        "name": "Pistachio pancakes",
+        "price": "6000",
+        "photo": "../assets/images/products/بان كيك بستاشيو.JPG"
+      },
+      {
+        "id": 9,
+        "name": "Nutella pancakes",
+        "price": "6000",
+        "photo": "../assets/images/products/بان كيك نوتلا.JPG"
+      },
+      {
+        "id": 10,
+        "name": "Fruit pancakes",
+        "price": "7000",
+        "photo": "../assets/images/products/بان كيك بالفواكه.JPG"
+      },
+      {
+        "id": 11,
+        "name": "Mixed pancakes",
+        "price": "6000",
+        "photo": "../assets/images/products/بان كيك مكس.JPG"
+      },
+      {
+        "id": 12,
+        "name": "Chocolate waffle",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 13,
+        "name": "Pistachio waffle",
+        "price": "6000",
+        "photo": "../assets/images/products/وفل بستاشيو.JPG"
+      },
+      {
+        "id": 14,
+        "name": "Lotus waffle",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 15,
+        "name": "Fruit waffle",
+        "price": "7000",
+        "photo": "../assets/images/products/وفل بالفواكه.JPG"
+      },
+      {
+        "id": 16,
+        "name": "Donut",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 17,
+        "name": "Stuffed donuts",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      }
+    ],
+    "كرواسون": [
+      {
+        "id": 1,
+        "name": "Croissant",
+        "price": "3500",
+        "photo": "../assets/images/products/كرواسون سادة.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Chocolate croissant",
+        "price": "3500",
+        "photo": "../assets/images/products/كرواسون شوكلت.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Cheese croissant",
+        "price": "3500",
+        "photo": "../assets/images/products/كرواسون بالجبن.JPG"
+      }
+    ],
+
+    "Cake": [
+      {
+        "id": 1,
+        "name": "San sebastian",
+        "price": "6000",
+        "photo": "../assets/images/products/كيك سان سباستيان.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Red Velvet",
+        "price": "6000",
+        "photo": "../assets/images/products/ريد فالفيت.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Blueberry Cheesecake",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 4,
+        "name": "Strawberry Cheesecake",
+        "price": "6000",
+        "photo": "../assets/images/products/تشيز كيك فراولة.JPG"
+      },
+      {
+        "id": 5,
+        "name": "Milk cake",
+        "price": "4000",
+        "photo": "../assets/images/products/ترليجة.JPG"
+      },
+      {
+        "id": 6,
+        "name": "Tiramisu",
+        "price": "6000",
+        "photo": "../assets/images/products/تراميسو كيك.JPG"
+      },
+      {
+        "id": 7,
+        "name": "Plain iraqi cake",
+        "price": "3000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 8,
+        "name": "iraqi chocolate cake",
+        "price": "3000",
+        "photo": "../assets/images/products/كيك عراقي بالشوكلت.JPG"
+      },
+      {
+        "id": 9,
+        "name": "Oreo cake",
+        "price": "4500",
+        "photo": "../assets/images/products/تشيز كيك اوريو.JPG"
+      },
+      {
+        "id": 10,
+        "name": "Brownie",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 11,
+        "name": "Chocolat cake",
+        "price": "6000",
+        "photo": "../assets/images/products/كيك بالشوكلت.JPG"
+      }
+    ],
+
+    "Alkhan Snacks": [
+      {
+        "id": 1,
+        "name": "Mixed nuts",
+        "price": "4000",
+        "photo": "../assets/images/products/مكسرات مكس.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Sesame coookies",
+        "price": "3000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 3,
+        "name": "Abu-Aldahn cookies",
+        "price": "3000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 4,
+        "name": "Brown cookies (diet)",
+        "price": "3000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 5,
+        "name": "Date kleicha",
+        "price": "3500",
+        "photo": "../assets/images/products/كليجة بالتمر.JPG"
+      },
+      {
+        "id": 6,
+        "name": "Halaqum kleicha",
+        "price": "3500",
+        "photo": "../assets/images/products/كليجة بالحلقوم.JPG"
+      },
+      {
+        "id": 7,
+        "name": "Walnut kleicha",
+        "price": "4000",
+        "photo": "../assets/images/products/كليجة بالجوز.JPG"
+      },
+      {
+        "id": 8,
+        "name": "Cookies",
+        "price": "4000",
+        "photo": "../assets/images/products/كوكيز.JPG"
+      },
+      {
+        "id": 9,
+        "name": "Simit",
+        "price": "1500",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 10,
+        "name": "Simit with Nutella",
+        "price": "2000",
         "photo": "../assets/images/products/"
       }
     ]
   },
 
-  "icecream": [
-    {
-      "name": "Scoops ( chocolate , pistachio , caramel , strawberry , mixed )",
-      "price": 5000,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Banana Split ( vanilla ,chocolate , caramel , fresh banana )",
-      "price": 5000,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Coke Zimo ( 2 scoops vanilla )",
-      "price": 5000,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Chocolate avocado",
-      "price": 6500,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Avocado vanilla",
-      "price": 6500,
-      "photo": "../assets/images/products/"
-    },
-    {
-      "name": "Avocado caramel",
-      "price": 7000,
-      "photo": "../assets/images/products/"
-    }
-  ],
-
-  "sweets": {
-    "sweets": [
+  "meals":{
+    "Sandwiches": [
       {
-        "name": "fruit crepe",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Nutella crepe",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Lotus crepe",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Pistachio crepe",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Chocolate pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Lotus pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Pistachio pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Nutella pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Fruit pancakes",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Caramel pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Mixed pancakes",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Chocolate waffle",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Pistachio waffle",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Lotus waffle",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Fruit waffle",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Alkhan cake",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Fruit salad",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Nuts",
-        "price": 3000,
-        "photo": "../assets/images/products/"
-      }
-    ],
-
-    "cake": [
-      {
-        "name": "San sebastian",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Red Velvet",
-        "price": 5000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Blueberry Cheesecake",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Strawberry Cheesecake",
-        "price": 7000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Milk cake",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Tiramisu",
-        "price": 6000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Plain iraqi cake",
-        "price": 2000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "iraqi chocolate cake",
-        "price": 3000,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Oreo cake",
-        "price": 4500,
-        "photo": "../assets/images/products/"
-      }
-    ],
-
-    "snacks": [
-      {
-        "name": "Iraqi cookie",
-        "price": 2500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Klicha",
-        "price": 2500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Cookies",
-        "price": 2500,
-        "photo": "../assets/images/products/"
-      }
-    ],
-
-    "pies": [
-      {
-        "name": "Chocolate croissant",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Cheese croissant",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "Croissant",
-        "price": 3500,
-        "photo": "../assets/images/products/"
-      },
-      {
-        "name": "cold toast",
-        "price": 3000,
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 1,
         "name": "Cheese toast",
-        "price": 3000,
+        "price": "3000",
+        "photo": "../assets/images/products/توست جبن.JPG"
+      },
+      {
+        "id": 2,
+        "name": "Turkey toast ",
+        "price": "4000",
+        "photo": "../assets/images/products/حبش.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Mortadella toast",
+        "price": "4000",
+        "photo": "../assets/images/products/توست مارتديلا.JPG"
+      },
+      {
+        "id": 4,
+        "name": "Brown bread cheese toast",
+        "price": "4000",
+        "photo": "../assets/images/products/توست اسمر جبن.JPG"
+      },
+      {
+        "id": 5,
+        "name": "Brown bread turkey toast",
+        "price": "4000",
+        "photo": "../assets/images/products/توست اسمر حبش.JPG"
+      },
+      {
+        "id": 6,
+        "name": "Brown bread mortadella toast",
+        "price": "4000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Turkey pastries",
-        "price": 5000,
+        "id": 7,
+        "name": "Mortadella sandwich",
+        "price": "4000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Meat pastries",
-        "price": 6000,
+        "id": 8,
+        "name": "Brown bread mortadella sandwich",
+        "price": "4000",
         "photo": "../assets/images/products/"
       },
       {
-        "name": "Chicken pastries",
-        "price": 6000,
+        "id": 9,
+        "name": "Croissant sandwich ",
+        "price": "4000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 10,
+        "name": "Simit with cream and honey",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      }
+    ],
+    "Alkhan Pies": [
+      {
+        "id": 1,
+        "name": "Alkhan pastries",
+        "price": "5000",
+        "photo": "../assets/images/products/فطيرة الخان.JPG"
+      },
+      {
+        "id": 2,
         "name": "Mortadella pastries",
-        "price": 5000,
+        "price": "6000",
+        "photo": "../assets/images/products/فطيرة مارتديلا.JPG"
+      },
+      {
+        "id": 3,
+        "name": "Turkey pastries",
+        "price": "6000",
+        "photo": "../assets/images/products/فطيرة لحم.JPG"
+      },
+      {
+        "id": 4,
+        "name": "Meat pastries",
+        "price": "5000",
         "photo": "../assets/images/products/"
       },
       {
+        "id": 5,
         "name": "Thyme & cheese pastries",
-        "price": 4000,
-        "photo": "../assets/images/products/"
+        "price": "4000",
+        "photo": "../assets/images/products/فطيرة زعتر بالجبن.JPG"
       },
       {
+        "id": 6,
         "name": "cheese pastries",
-        "price": 4000,
-        "photo": "../assets/images/products/"
+        "price": "4000",
+        "photo": "../assets/images/products/فطيرة بالجبن.JPG"
       },
       {
+        "id": 7,
         "name": "Black seed & cheese pastries",
-        "price": 4000,
-        "photo": "../assets/images/products/"
+        "price": "4000",
+        "photo": "../assets/images/products/فطيرة حبة سوداء بالجبن.JPG"
       },
       {
+        "id": 8,
         "name": "Spinach & cheese pastries",
-        "price": 4000,
-        "photo": "../assets/images/products/"
+        "price": "4000",
+        "photo": "../assets/images/products/فطيرة سبانخ بالجبن.JPG"
       },
       {
+        "id": 9,
         "name": "Pepperoni pastries",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "5000",
+        "photo": "../assets/images/products/فطيرة ببروني بالجبن.JPG"
       },
       {
+        "id": 10,
         "name": "Sausage pastries",
-        "price": 5000,
-        "photo": "../assets/images/products/"
+        "price": "5000",
+        "photo": "../assets/images/products/فطيرة نقانق.JPG"
       },
       {
-        "name": "Mushroom pastries",
-        "price": 5000,
-        "photo": "../assets/images/products/"
-      },
-      {
+        "id": 11,
         "name": "Olive oil & thyme pastries",
-        "price": 4000,
+        "price": "4000",
+        "photo": "../assets/images/products/فطيرة زيت بالزعتر.JPG"
+      },
+      {
+        "id": 12,
+        "name": "Red pastries",
+        "price": "4000",
+        "photo": "../assets/images/products/فطيرة محمرة.JPG"
+      }
+    ]
+  },
+  "special": {
+    "": [
+      {
+        "id": 1,
+        "name": "Al Khan Tea Pot (Medium)",
+        "price": "6000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 2,
+        "name": "Al Khan Tea Pot (Large)",
+        "price": "8000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 3,
+        "name": "Al Khan Special Tea Pot",
+        "price": "12000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 4,
+        "name": "Add Samovar with Tea Pot",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 5,
+        "name": "Rice Pudding",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 6,
+        "name": "Crème Caramel",
+        "price": "5000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 7,
+        "name": "Muhallebi",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 8,
+        "name": "Zarda",
+        "price": "4000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 9,
+        "name": "Fruit Plate",
+        "price": "10000",
+        "photo": "../assets/images/products/صحن فواكه.JPG"
+      },
+      {
+        "id": 10,
+        "name": "Dates and Walnuts Plate",
+        "price": "7000",
+        "photo": "../assets/images/products/"
+      }
+    ],
+    "الإضافات": [
+      {
+        "id": 1,
+        "name": "Extra Espresso Shot",
+        "price": "3000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 2,
+        "name": "Caramel",
+        "price": "2000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 3,
+        "name": "Hazelnut",
+        "price": "2000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 4,
+        "name": "Vanilla",
+        "price": "2000",
+        "photo": "../assets/images/products/"
+      },
+      {
+        "id": 5,
+        "name": "Pistachio",
+        "price": "2000",
         "photo": "../assets/images/products/"
       }
     ]
-  }
+  },
+  "shisha": [
+    {
+      "id": 1,
+      "name": "Gum & Mint",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 2,
+      "name": "English",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 3,
+      "name": "Lemon & Mint",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 4,
+      "name": "Double Apple",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 5,
+      "name": "Al Khan Tea Mix",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 6,
+      "name": "Bounty",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 7,
+      "name": "Mixed Nuts",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 8,
+      "name": "Blueberry",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 9,
+      "name": "Citrus",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 10,
+      "name": "Kiwi & Lemon",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 11,
+      "name": "Nestle",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 12,
+      "name": "Mexicano",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 13,
+      "name": "Master",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 14,
+      "name": "B2B",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 15,
+      "name": "Cardamom & Night",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 16,
+      "name": "Baghdadi",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 17,
+      "name": "Moscow Nights",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 18,
+      "name": "Tropical Fruits",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 19,
+      "name": "Gum & Watermelon",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 20,
+      "name": "Grape",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    },
+    {
+      "id": 21,
+      "name": "Watermelon & Gum",
+      "price": "14000",
+      "photo": "../assets/images/products/"
+    }
+  ]
 }
