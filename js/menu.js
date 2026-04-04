@@ -122,7 +122,7 @@ function lang() {
 
   let enBtn = document.createElement("button");
   enBtn.id = "enBtn";
-  enBtn.innerText= "english" ;
+  enBtn.innerText= "English" ;
 
   let btnsCont = document.createElement("div");
   btnsCont.classList.add("btns-cont");
