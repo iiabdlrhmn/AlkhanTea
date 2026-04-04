@@ -809,7 +809,7 @@
       },
       {
         "id": 3,
-        "name": "كرواسون بالجبن ",
+        "name": "كرواسون بالجبن",
         "price": "٣٥٠٠",
         "photo": "../assets/images/products/كرواسون بالجبن.JPG"
       }
@@ -1021,20 +1021,26 @@
       {
         "id": 2,
         "name": "فطیرة المرتدیلا",
-        "price": "٦٠٠٠",
+        "price": "٥٠٠٠",
         "photo": "../assets/images/products/فطيرة مارتديلا.JPG"
       },
       {
         "id": 3,
         "name": "فطیرة الحبش",
-        "price": "٦٠٠٠",
-        "photo": "../assets/images/products/فطيرة لحم.JPG"
+        "price": "٥٠٠٠",
+        "photo": "../assets/images/products/"
       },
       {
         "id": 4,
         "name": "فطیرة اللحم",
-        "price": "٥٠٠٠",
+        "price": "٦٠٠٠",
         "photo": "../assets/images/products/"
+      },
+      {
+        "id": 5,
+        "name": "فطیرة دجاج",
+        "price": "٦٠٠٠",
+        "photo": "../assets/images/products/فطيرة زعتر بالجبن.JPG"
       },
       {
         "id": 5,

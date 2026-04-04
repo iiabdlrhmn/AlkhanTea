@@ -37,7 +37,7 @@ function singleL(type, products) {
   products.forEach((product, i=0) => {
     let pName = document.createTextNode(product.name);
     let pPrice = document.createTextNode(product.price);
-    let pImg = document.createTextNode(product.photo);
+    let pImg = `../assets/images/products/${pName.textContent}.jpg`;
     let pContCon = document.querySelector(`.${type}`);
 
     let pCont = document.createElement("div");
@@ -45,7 +45,7 @@ function singleL(type, products) {
     
     let pPhotoDiv = document.createElement("div");
     let pPhoto = document.createElement("img");
-    pPhoto.setAttribute("src", pImg.textContent);
+    pPhoto.setAttribute("src", pImg);
     pPhotoDiv.classList.add("p-photo-con");
     // pPhotoDiv.innerText = "photo";
     pPhotoDiv.appendChild(pPhoto);
@@ -112,8 +112,8 @@ function lang() {
   let langCont = document.createElement("div");
   langCont.classList.add("lang-cont");
 
-  let langH = document.createElement("h3");
-  langH.innerText = "Choose your language";
+  let langH = document.createElement("div");
+  langH.classList.add("lang-text");
   
   let arBtn = document.createElement("button");
   arBtn.id = "arBtn";
@@ -158,12 +158,12 @@ function changeLang() {
   let addons = document.getElementById("special");
   let shisha = document.getElementById("shisha");
   if (document.querySelector("html").getAttribute("lang") == "ar") {
-    tea.innerText = "الشاي";
+    tea.innerText = "شاي الخان";
     drinks.innerText = "المشروبات";
-    sweets.innerText = "الحلويات";
+    sweets.innerText = "تحلاية";
     meals.innerText = "الوجبات";
     addons.innerText = "مميز الخان";
-    shisha.innerText = "الاراكيل";
+    shisha.innerText = "دخان";
   } else {
     tea.innerText = "Tea";
     drinks.innerText = "Drinks";
