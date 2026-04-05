@@ -112,8 +112,9 @@ function lang() {
   let langCont = document.createElement("div");
   langCont.classList.add("lang-cont");
 
-  let langH = document.createElement("div");
-  langH.classList.add("lang-text");
+  let langH = document.createElement("img");
+  langH.setAttribute("src", "../assets/images/langText.svg");
+  langH.classList.add("welcome-txt");
   
   let arBtn = document.createElement("button");
   arBtn.id = "arBtn";
@@ -161,14 +162,14 @@ function changeLang() {
     tea.innerText = "شاي الخان";
     drinks.innerText = "المشروبات";
     sweets.innerText = "تحلاية";
-    meals.innerText = "الوجبات";
+    meals.innerText = "خفايف";
     addons.innerText = "مميز الخان";
     shisha.innerText = "دخان";
   } else {
     tea.innerText = "Tea";
     drinks.innerText = "Drinks";
     sweets.innerText = "Sweets";
-    meals.innerText = "Meals";
+    meals.innerText = "light Meals";
     addons.innerText = "Special";
     shisha.innerText = "Shisha";
   }
