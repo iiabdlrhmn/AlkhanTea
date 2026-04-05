@@ -140,6 +140,8 @@ body {
   font-size: 17px;
   border-radius: 10px;
   background-color: transparent;
+  border: solid #000000 2px;
+  color: #000000;
 }
 
 html[lang="ar"] * {
