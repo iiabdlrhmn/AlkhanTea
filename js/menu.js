@@ -37,7 +37,7 @@ function singleL(type, products) {
   products.forEach((product, i=0) => {
     let pName = document.createTextNode(product.name);
     let pPrice = document.createTextNode(product.price);
-    let pImg = `../assets/images/products/${product.id}.jpg` || `../assets/images/products/${product.id}.JPG`;
+    let pImg = `../assets/images/products/${product.id}.JPG`;
     let pContCon = document.querySelector(`.${type}`);
 
     let pCont = document.createElement("div");
