@@ -80,8 +80,12 @@ body {
   flex-flow: column nowrap;
   justify-content: center;
   align-items: center;
+  background-image: url(../assets/images/welcome.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  border: none;
+  padding: 0px 35px
 }
-
 .lang-text {
   background-image: url(../assets/images/langText.svg);
   background-repeat: no-repeat;
@@ -241,13 +245,4 @@ html[lang="ar"] * {
   .p-type-cont > hr {
     border-color: #000;
   }
-
-  .lang-cont {
-    width: 80%;
-    background-image: url(../assets/images/welcome.svg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    border: none;
-    padding: 0px 35px
-  }  
 }
