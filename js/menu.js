@@ -177,4 +177,11 @@ function changeLang() {
 // automatically bring the products on the page load
 window.addEventListener("load", () => {
   lang();
+  document.querySelector(".lang-cont").classList.add("loaded");
+  setTimeout(() => {
+    document.querySelectorAll(".lang-cont *").forEach((element) => {
+      element.style.opacity = "100%";
+    })
+
+   }, 1750);
 });
