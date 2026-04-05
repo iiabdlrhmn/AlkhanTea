@@ -142,6 +142,7 @@ body {
   background-color: transparent;
   border: solid #000000 2px;
   color: #000000;
+  font-family: "Sakkal";
 }
 
 html[lang="ar"] * {
