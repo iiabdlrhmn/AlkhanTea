@@ -43,7 +43,7 @@
       text-decoration: none;
       font-size: 20px;
       position: absolute;
-      top: 328px;
+      top: 33vh;
       left: calc(50% - 60px);
       transition: all 150ms;
     }
