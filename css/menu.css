@@ -110,7 +110,7 @@ body {
 } */
 
 .lang-cont {
-  background-image: url(../assets/images/welcome.svg);
+  background-image: url(../assets/images/Welcome2.gif);
   background-size: cover;
   background-repeat: no-repeat;
   width: 350px;
@@ -124,9 +124,9 @@ body {
   transition: all 0s;
 }
 
-.loaded {
+/* .loaded {
   animation: appear 1.5s normal;
-}
+} */
 
 
 
