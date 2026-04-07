@@ -20,6 +20,12 @@
     body {
       background-image: url(../assets/images/cover.jpeg);
       background-size: cover;
+      background-position: center ;
+      background-repeat: no-repeat;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
     }
 
     .btn {
@@ -37,7 +43,7 @@
       text-decoration: none;
       font-size: 20px;
       position: absolute;
-      top: 330px;
+      top: 328px;
       left: calc(50% - 60px);
       transition: all 150ms;
     }
