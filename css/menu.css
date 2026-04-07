@@ -19,6 +19,7 @@ body {
   margin: 0;
   padding: 0 0 30px;
   background-color: #f5e2ca;
+  background-image: url(../assets/images/background.png);
 }
 
 #header {
@@ -222,7 +223,7 @@ html[lang="ar"] * {
     margin-top: 50px;
     box-sizing: border-box;
     display: none;
-    background-image: url(../assets/images/abody.svg);
+    /* background-image: url(../assets/images/abody.svg); */
     background-repeat: repeat-y;
     background-size: 100%;
     /* background-color: rgb(165, 145, 75, 0.5); */
@@ -241,20 +242,20 @@ html[lang="ar"] * {
   /* post styles */
 
   .p-cont {
-    width: 70%;
-    min-height: 100px;
-    padding: 20px;
+    width: 85%;
+    height: 315px;
+    padding: 20px 50px;
+    padding-top: 35px;
     box-sizing: border-box;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
     gap: 15px;
-    /* background-image: url("../assets/images/PAPER.png"); */
+    background-image: url("../assets/images/Artboard\ 2.png");
     background-repeat: no-repeat;
-    background-size: 140% 113%;
-    background-position-x: 52%;
-    background-position-y: 55%;
+    background-size: contain;
+    background-position: center;
   }
 
   .p-cont > div {
