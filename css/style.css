@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "Sakkal";
+  src: url(../assets/fonts/SAKKAL\ KITAB-MEDIUM.TTF);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sakkal light";
+  src: url(../assets/fonts/SAKKAL\ KITAB-LIGHT.TTF);
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Sakkal heavy";
+  src: url(../assets/fonts/SAKKAL\ KITAB-HEAVY.TTF);
+  font-weight: normal;
+}
+
+@media (max-width: 450px) {
+    body {
+      background-image: url(../assets/images/cover.jpeg);
+      background-size: cover;
+    }
+
+    .btn {
+      width: 120px;
+      height: 40px;
+      background-color: red;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: transparent;
+      border: solid #000000 2px;
+      border-radius: 10px;
+      color: #000000;
+      font-family: "Sakkal";
+      text-decoration: none;
+      font-size: 20px;
+      position: absolute;
+      top: 330px;
+      left: calc(50% - 60px);
+      transition: all 150ms;
+    }
+    .btn:active {
+      background-color: #00000024
+    }
+}
